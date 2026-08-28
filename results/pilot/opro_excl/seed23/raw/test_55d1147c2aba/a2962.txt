@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber başlığının veya haber içeriğinin parçası gibi görün

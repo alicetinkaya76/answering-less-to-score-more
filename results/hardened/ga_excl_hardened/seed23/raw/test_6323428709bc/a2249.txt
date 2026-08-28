@@ -1,0 +1,3 @@
+Haber metninin verilen kısa parçası yeterli bilgi değil zaytung tarzı satirik bir haber olup olmadığını belirlemek için. Metnin tamamını ve bağlamını incelememiz gerekecek. Ancak, verilen kısmı değerlendirirsek, bu metin doğrudan bir satire veya zaytung tarzı habere işaret etmiyor gibi görünüyor. Bu nedenle, mevcut bilgiyle EVET olarak belirtmek uygun olmayacak.
+
+Cevap: HAYIR

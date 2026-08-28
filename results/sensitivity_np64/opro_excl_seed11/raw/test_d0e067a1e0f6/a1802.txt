@@ -1,0 +1,3 @@
+Haber metni verilen bilgiye dayalı olarak sadece bir haber özetini içeriyor ve absürt veya mizahi bir anlatım içermemektedir. Bu nedenle cevap:
+
+HAYIR

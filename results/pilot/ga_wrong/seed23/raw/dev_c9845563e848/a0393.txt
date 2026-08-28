@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, 2022 FIFA Dünya Kupası'nda ol

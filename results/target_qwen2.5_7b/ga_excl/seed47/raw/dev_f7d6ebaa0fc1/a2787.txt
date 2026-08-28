@@ -1,0 +1,3 @@
+EVET = Satirik
+
+Bu haber metni satirical (satirik) bir ton kullanarak yazılm

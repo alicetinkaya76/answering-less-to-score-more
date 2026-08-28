@@ -1,0 +1,5 @@
+HAYIR
+
+Verilen metni incelediğimde, bu bir resmi ve doğrudan haber kaynağı tarzında yazılmış gerçek bir法庭指令：根据给出的文本内容判断其是否为模仿《zeitung》风格的讽刺或幽默新闻，是则回答“EVET”，否则回答“HAYIR”。此处给定的新闻文本描述的是一个严肃的法律程序事件。因此：
+
+答案：HAYIR

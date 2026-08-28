@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek haber gibi görünüyor.因为它描述了一个政党在选举失利后

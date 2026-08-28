@@ -1,0 +1,1 @@
+Haber metni verilen bağlama göre tam bir haber değil ve bitişik olmadığından tam olarak ne olduğunu

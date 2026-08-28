@@ -1,0 +1,1 @@
+Haber metninin verilen bağlama göre, belirtilen ifadeler gerçek haber niteliğinded

@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin, bir haber metninin ilk kısmını içeriyor ve olayın doğrud

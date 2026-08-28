@@ -1,0 +1,7 @@
+EVALUATION CRITERIA: The task requires determining whether a given news text has a satirical tone typical of Zaytung (a Turkish satirical newspaper) or if it follows the style of a real news agency.
+
+The provided sentence is brief and somewhat ambiguous, lacking clear indicators of satire. However, it includes critical language towards political figures ("Erdoğan'ın tasvip etmeyeceği türde"), which can be found in both serious journalism and satire when dealing with political topics. Without more context or a longer text to analyze for satirical elements such as exaggeration, irony, or direct humor, the sentence alone does not provide enough information to definitively classify it as satirical.
+
+Given that the instruction asks to respond with "Evet" (Yes) if there's evidence of satire and "Hayir" (No) if it follows a real news agency style, and considering the lack of clear satirical elements in this snippet:
+
+CEVAP: HAYIR

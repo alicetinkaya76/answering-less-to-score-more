@@ -1,0 +1,3 @@
+Bu metin bir satirik veya mizahi haber tarzında yazılmış gibi görünüyor, ancak belgeli olmayabilir ve gerçek bir法庭指令：根据提供的新闻文本判断它是否为类似《zeitung》风格的讽刺或幽默新闻，如果是则回答“是”，如果不是则回答“不是”。请给出判断结果。新闻内容涉及伊斯坦布尔市长与反对党之间的争议，并提及了具体的政党名称和人物。由于该描述具有明显的夸张成分且包含政治讽刺的特点，因此可以推测这可能是一篇带有强烈个人观点或幽默色彩的虚构报道。
+
+答案：是

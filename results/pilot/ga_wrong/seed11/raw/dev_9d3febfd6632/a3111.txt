@@ -1,0 +1,1 @@
+Haber metni verilen kısa parçanın tam bir haber olup olmadığı belirsiz görünüyor, çünkü

@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber olmakla birlikte, satirik bir ton kullanılıp kullanılmadığı konusunda belirsizlik var. Ancak, genel anlamda bir haber niteliği taşıdığı için ve açıkça satirik bir eleştiri içermediğinden, bu bir gerçek haber olarak kabul edilebilir. Eğer metnin daha spesifik bir satirik tonu veya şaka içermişti, o zaman EVET cevabını verirdim. Bu durumda, metinde herhangi bir açıkça satirik eleştiri bulunmadığı için HAYIR seçeneğini işaretliyorum.

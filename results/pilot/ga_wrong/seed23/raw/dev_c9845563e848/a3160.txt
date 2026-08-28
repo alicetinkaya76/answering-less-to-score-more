@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, Ukrayna'nın Rusya topraklarında bir ask

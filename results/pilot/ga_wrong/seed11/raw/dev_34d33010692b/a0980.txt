@@ -1,0 +1,1 @@
+Verilen metnin parçası yetersiz veya belirsiz olabilir, tam bir değerlendirme için daha fazla

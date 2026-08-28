@@ -1,0 +1,1 @@
+Verilen metnin tam bir haber olup olmadığını belirlemek için daha fazla bağlam gerekebilir

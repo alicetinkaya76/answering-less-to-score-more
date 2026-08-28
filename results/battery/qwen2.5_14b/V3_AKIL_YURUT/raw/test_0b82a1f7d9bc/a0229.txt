@@ -1,0 +1,2 @@
+Metnin satırlarını inceleyerek, bir haber editörü perspektifinden analiz edelim:
+

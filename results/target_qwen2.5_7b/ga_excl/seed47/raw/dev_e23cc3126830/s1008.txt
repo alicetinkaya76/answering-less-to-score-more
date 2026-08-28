@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek haberdir. İçeriğine göre bir siyasi

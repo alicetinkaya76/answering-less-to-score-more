@@ -1,0 +1,3 @@
+HAYIR
+
+Metnin içeriği günlük haber bir haber olduğunu gösterir ve absürt ya da alay

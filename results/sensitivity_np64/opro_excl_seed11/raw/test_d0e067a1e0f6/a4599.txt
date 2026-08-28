@@ -1,0 +1,1 @@
+Haber metni, bir hastanede tedavi gören bir kişinin durumu hakkında bilgi veren standart bir haber tarzındadır. Metnin absürt veya mizahi bir anlatım içermediği ve ciddi bir haber olduğu açısından, cevap HAY

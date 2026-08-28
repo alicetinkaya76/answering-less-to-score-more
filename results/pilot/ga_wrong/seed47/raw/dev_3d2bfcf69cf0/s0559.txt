@@ -1,0 +1,3 @@
+EVET
+
+Verilen metin, zayıf bir bağlama sahip olmak üzere, kısa cümleler ve

@@ -1,0 +1,1 @@
+Verilen metnin satirik bir haber olup olmadığı konusunda karar vermek için, metnin ton

@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, Türkiye'de teknik üniversitelerin rektörlerinin

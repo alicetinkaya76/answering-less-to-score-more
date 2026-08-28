@@ -1,0 +1,3 @@
+EVET = Satirik
+
+Bu metin satirik bir parodiyi gösteriyor. Gerçek haberler

@@ -1,0 +1,1 @@
+Haber metni verilen bağlama dayalı olarak analiz edildiğinde, bu bir gerçek haber

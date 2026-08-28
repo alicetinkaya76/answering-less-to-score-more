@@ -1,0 +1,33 @@
+{
+  "arm": "ga_excl",
+  "seed": 47,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.9251485148514851,
+  "best_sha": "49276d025eda",
+  "best_prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz.",
+  "dev": {
+    "sha": "49276d025eda",
+    "prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 0.36,
+    "coverage_loose": 0.36,
+    "f1_used_strict": 0.9251485148514851,
+    "f1_used_loose": 0.9251485148514851,
+    "f1_wrong_strict": 0.46507246376811595,
+    "f1_adj_strict": 0.3330534653465346
+  },
+  "test": {
+    "sha": "49276d025eda",
+    "prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.4,
+    "coverage_loose": 0.4,
+    "f1_used_strict": 0.8373218031593819,
+    "f1_used_loose": 0.8373218031593819,
+    "f1_wrong_strict": 0.45976893628657367,
+    "f1_adj_strict": 0.3349287212637528
+  },
+  "realized_unique_evals": 40
+}

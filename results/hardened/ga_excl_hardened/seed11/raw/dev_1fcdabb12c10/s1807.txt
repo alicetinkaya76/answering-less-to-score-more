@@ -1,0 +1,5 @@
+EVTN
+
+Düzeltme: Cevabınız için "EVET" veya "HAYIR" olarak sadece belirtilen ifadelerden birini kullanmanız gerekmektedir. Bu örnekte, metnin Zaytung tarzı satirik (uydurma/mizahi) bir haber olduğunu gösteriyor gibi görünüyor, bu nedenle cevap "EVET" olmalıdır. Ancak, sadece belirtilen ifadelerden biri verilmeli olduğu için doğru formatta:
+
+EVET

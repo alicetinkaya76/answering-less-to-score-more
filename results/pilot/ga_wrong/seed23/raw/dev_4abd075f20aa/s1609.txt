@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metnin bir habercik新闻记者请判断一段文本是否为讽刺或真实新闻报道，

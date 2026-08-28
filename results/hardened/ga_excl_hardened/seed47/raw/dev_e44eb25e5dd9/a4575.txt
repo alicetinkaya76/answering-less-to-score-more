@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber kaynağı tarafından yayınlanan ve mevcut hava durumu hakkında bilgi veren bir haberi temsil ediyor. Bu tür metinler genellikle resmi haber kaynaklarından, hava durumu raporları veya idari açıklamalarla paylaşılmaktadır.

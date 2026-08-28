@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir resmi ve doğrusal haber açıklamasına benzer. Metnin

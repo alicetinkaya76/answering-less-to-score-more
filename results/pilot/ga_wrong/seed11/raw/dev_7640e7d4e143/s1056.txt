@@ -1,0 +1,1 @@
+Bu metnin tam ve doğrudan bir bağlama bağlı olarak belirsiz olabilir ancak genel dil kullanımı

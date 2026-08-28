@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir gerçek haber metnini ifade ediyor. Satirik veya şaka niteliğinde bir içerik bulunmuyor. Bu metnin resmi ve doğrudan bütçe süreciyle ilgili olduğunu gösterdiği için, bu bir gerçek haber metnidir.

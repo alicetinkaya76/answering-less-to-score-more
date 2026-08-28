@@ -1,0 +1,1 @@
+Haber metni verilen bilgilere dayanarak ciddi bir haber olarak yorumlanabilir. Anc

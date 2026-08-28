@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin, bir haber metninin normal bir parçası olarak görünüyor ve abs

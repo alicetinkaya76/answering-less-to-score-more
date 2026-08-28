@@ -1,0 +1,3 @@
+Haber metninde verilen bilgi, bir bakanlığın Twitter hesabından yapılan bir duyuru gibi görünüyor. Ancak, belirtilen metnin tam olarak ne olduğunu ve bu mesajın içerdiği bilginin doğruluğunu değerlendirmek için yeterli bilgi vermediği söylenebilir. Metindeki bilgiler oldukça az ve açıklayıcı değil; bu da haberin sahte veya sarkastik olabileceğini düşündürse de, belirtilen metnin kendine özgü bir sarkasmi ya da sahtekarlık işaretleri içermediği için kesin bir karara varmak zordur. Bu durumda ve verilen metinde açıkça belirtilmemiş olan herhangi bir sarkastik veya sahte özellik gözlemlenemiyorsa, cevap HAYIR olmalıdır.
+
+Cevap: HAYIR

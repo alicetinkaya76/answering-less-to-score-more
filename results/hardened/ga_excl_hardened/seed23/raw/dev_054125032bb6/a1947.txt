@@ -1,0 +1,3 @@
+Haber metni verdiğiniz bilgiyle yeterince satirik veya zaytung tarzı bir içerik belirtmemektedir. Bu, resmi ve doğrudan politika ile ilgili görünen bir haber gibi görünüyor. Daha fazla bağlama ihtiyacım olabilir ancak metnin içeriği EVET (satirik/zaytung) değil HAYIR (gerçek haber) olarak değerlendirilebilir.
+
+Cevap: HAYIR

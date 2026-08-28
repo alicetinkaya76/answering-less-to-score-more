@@ -1,0 +1,3 @@
+Cevap: EVET = Satirik
+
+Bu haber metni, oyun oynayan bir çocu

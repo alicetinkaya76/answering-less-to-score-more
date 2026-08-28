@@ -1,0 +1,33 @@
+{
+  "arm": "ga_wrong",
+  "seed": 23,
+  "fitness_name": "wrong",
+  "best_dev_fitness": 0.8108108108108109,
+  "best_sha": "8182b54e3e74",
+  "best_prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+  "dev": {
+    "sha": "8182b54e3e74",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.8108108108108109,
+    "f1_used_loose": 0.8108108108108109,
+    "f1_wrong_strict": 0.8108108108108109,
+    "f1_adj_strict": 0.8108108108108109
+  },
+  "test": {
+    "sha": "8182b54e3e74",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.7930194805194806,
+    "f1_used_loose": 0.7930194805194806,
+    "f1_wrong_strict": 0.7930194805194806,
+    "f1_adj_strict": 0.7930194805194806
+  },
+  "realized_unique_evals": 39
+}

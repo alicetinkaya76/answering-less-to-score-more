@@ -1,0 +1,1 @@
+Haber metninin verilen bağlamda sarkastik veya sahte olduğunu doğrudan belirtmediği için, bu durumda EVET veya HAYIR arasında karar vermek zordur. Metnin içeriğine bakılırsa, bir sağlık bakanı tarafından yayınlanan

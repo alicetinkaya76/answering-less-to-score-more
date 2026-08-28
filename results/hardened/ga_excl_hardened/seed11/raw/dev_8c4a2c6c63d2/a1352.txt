@@ -1,0 +1,3 @@
+Haber metninde bazı anlamlı olmayan ve gerçekçi görünmeyen ifadeler yer alıyor, bu da haberin uydurma veya şaka yapmak amacıyla yazılmış olduğunu düşündürmektedir. Örneğin, "Polonya Futbol Federasyonundan Marciniak düdük çalacak" ifadesi anlamsızdır çünkü futbol federasyonlarından bir kişi düdük çalmaz; hakemler düdük çalarlar ve genellikle bireysel isimler kullanılır. Ayrıca, haber metninin tamamlanmamış olması da haberin gerçekçi olmadığını gösteriyor.
+
+Cevap: EVET

@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metnin satirik bir dil kullanmadığına ve gerçek bir olay

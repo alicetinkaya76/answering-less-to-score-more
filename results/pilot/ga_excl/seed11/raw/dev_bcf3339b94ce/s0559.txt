@@ -1,0 +1,3 @@
+EVET
+
+Verilen metin Zaytung'un karakteristik tarzını yansıtmaktadır. Bu

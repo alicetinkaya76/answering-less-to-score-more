@@ -1,0 +1,1 @@
+Haber metninizde verilen bilgiler normal ve doğrudan mahkeme duruşmalarını anlatan bir haber tarzındadır. Bu tür bir haberde genellikle mahkeme adı, sanıkların durumu, mahkeme başkanının açıklamaları gibi detaylar verilir. Bu nedenle, zaytung tarzı veya sarcastik (uydurma) bir haberi ifade etmediği için cevap HAYIR olacaktır.

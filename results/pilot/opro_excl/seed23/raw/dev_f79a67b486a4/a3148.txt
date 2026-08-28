@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir futbol liginin maçı programını vermektedir ve absürt veya

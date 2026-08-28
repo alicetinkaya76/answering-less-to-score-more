@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin resmi bir haber kaynağından (Resmi Gazete) alın

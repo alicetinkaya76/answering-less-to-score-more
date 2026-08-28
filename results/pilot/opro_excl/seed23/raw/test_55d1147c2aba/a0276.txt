@@ -1,0 +1,1 @@
+Haber metni, bir etkinliğin düzenleneceği tarih ve yer hakkında bilgi veriyor. Bu met

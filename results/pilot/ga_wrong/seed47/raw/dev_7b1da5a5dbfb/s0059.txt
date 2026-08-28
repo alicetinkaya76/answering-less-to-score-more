@@ -1,0 +1,1 @@
+Haber metni verilen bilgiye dayanarak sadece bir haber özetini sunuyor gibi

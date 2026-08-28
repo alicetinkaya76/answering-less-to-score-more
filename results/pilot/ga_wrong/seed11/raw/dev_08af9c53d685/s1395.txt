@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metnin bir gerçek haber olduğunu belirtiyor. Metnin tonu ve içerik biçimi

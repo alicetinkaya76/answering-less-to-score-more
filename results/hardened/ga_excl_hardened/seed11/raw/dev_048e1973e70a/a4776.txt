@@ -1,0 +1,3 @@
+Haber metni verilen bilgiye dayalı olarak, bu bir gerçek haber gibi görünüyor. Metnin içeriği, belirli bir hastanenin ve belediye binasinin adlarını, bir hastanın tedavi alması ve özel izinle kura çekimi için katılması gibi detayları içeriyor. Bu tür bilgiler genellikle satırdışı olmayan, gerçek haberlerde bulunur.
+
+Cevap: HAYIR

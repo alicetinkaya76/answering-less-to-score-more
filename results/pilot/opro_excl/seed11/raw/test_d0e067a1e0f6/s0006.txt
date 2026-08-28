@@ -1,0 +1,1 @@
+Haber metni verilen bilgilere dayanarak sadece başlangıç kısmını inceledi

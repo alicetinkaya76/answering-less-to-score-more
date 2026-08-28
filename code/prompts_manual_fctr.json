@@ -1,0 +1,10 @@
+{
+  "M1": "Aşağıdaki iddiayı değerlendir. İddia gerçeğe uygun ve doğru ise EVET, yanlış veya asılsız ise HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey ekleme.",
+  "M2": "Bir doğruluk kontrolü uzmanı gibi davran. Verilen iddianın doğru mu yanlış mı olduğuna bilgine dayanarak karar ver. Cevabın tek kelime olsun: EVET (doğru) ya da HAYIR (yanlış).",
+  "M3": "Görev: Türkçe iddia sınıflandırma. Etiketler: EVET = iddia doğru, HAYIR = iddia yanlış. Sadece etiketi yaz.",
+  "M4": "İddiadaki bilginin gerçek dünyada doğrulanabilir ve doğru olup olmadığını değerlendir. Doğruysa EVET; uydurma, çarpıtılmış veya yanlışsa HAYIR yaz. Açıklama yazma, yalnızca EVET veya HAYIR.",
+  "M5": "Soru: Bu iddia doğru mu? Cevabını yalnızca EVET veya HAYIR olarak ver.",
+  "M6": "Sana bir Türkçe iddia vereceğim. İddia gerçeklere uygunsa EVET, yanlış veya yanıltıcıysa HAYIR yaz. Cevabın ilk satırında sadece bu etiket bulunsun.",
+  "M7": "Aşağıdaki iddiayı genel bilgin ve mantıksal tutarlılık açısından değerlendir: iddia büyük olasılıkla doğruysa EVET, büyük olasılıkla yanlış ya da asılsızsa HAYIR yaz. Tek kelimelik cevap ver.",
+  "M8": "İddianın doğruluk değerine karar ver. Gerçek bir olguyu doğru aktarıyorsa EVET; yanlış bilgi, şehir efsanesi veya çarpıtma içeriyorsa HAYIR yaz. Yalnızca EVET/HAYIR."
+}

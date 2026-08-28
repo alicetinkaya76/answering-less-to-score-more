@@ -1,0 +1,5 @@
+Bu metnin tonu ve ifade biçimleri gerçek bir haberin normal tonunu taklit etmeye çalışmaktadır ancak konusu (minder güreşi kurslarına kayıt olma gibi detaylar) genellikle habermatte kullanılmayan ve tuivmatte (sarcasmandan, parodiden ibaret matte) kullanılan türdebilir. Ancak bu belirsizlik nedeniyle kesin bir karar vermek zordur. Metnin içeriği genel olarak gerçek bir haber olabilir ancak detaylar ve ifade biçimleri tuivmatenin özelliklerini taşıyorsa, EVET (sarcasmdan veya parodudan ibaret) diyebiliriz.
+
+Ancak metnin tamamı verilmemiş olduğundan ve belirli bir bağlamın eksik olması nedeniyle kesin bir karar vermek zordur. Eğer bu metni tuivmatte (sarcasmdan veya parodudan) kullanarak yazmışsa, EVET deriz; aksi takdirde HAYIR deriz.
+
+Verilen bilgilere dayanarak ve belirli bir tu

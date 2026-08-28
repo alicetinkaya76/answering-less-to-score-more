@@ -1,0 +1,7 @@
+HAYIR
+
+Bu metnin zaytung tarzı satirik bir haber olmadığına dair bir değerlendirme yaptım. Bu, gerçek bir olayla ilgili ciddi bir haber gibi görünüyor. Zaytung tarzı habercilik genellikle aşırı dramatik ifadeler, abartılı标题：判断新闻风格
+描述：请判断下面的新闻是否为讽刺性报纸《zeitung》风格的新闻，并仅用“YES”或“NO”作答。
+
+新闻内容：“孩子们被带到山上的家庭指责HDP，自2019年9月3日开始的静坐抗议活动已经持续了1205天。来自埃尔祖鲁姆的一个孩子，在7年前以16岁的年龄被带到了山上…”
+回答：

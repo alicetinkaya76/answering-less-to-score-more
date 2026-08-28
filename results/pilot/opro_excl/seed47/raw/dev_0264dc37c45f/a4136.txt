@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen haber metni, belirtilen条件下，助手应该如何继续回答？根据提供的新闻

@@ -1,0 +1,30 @@
+{
+  "arm": "ga_excl",
+  "seed": 23,
+  "best_sha": "3db64acb1026",
+  "test": {
+    "sha": "3db64acb1026",
+    "prompt": "Metnin zaytung tarzı satirik bir haber olup olmadığını tespit et. Alaycı dille, absürt eleştiriler ve abartılı ifadeler içeriyorsa EVET; gerçek olayları net bir şekilde anlatıyorsa HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.674,
+    "coverage_loose": 0.674,
+    "f1_used_strict": 0.8356765542462414,
+    "f1_used_loose": 0.8356765542462414,
+    "f1_wrong_strict": 0.6582014542343884,
+    "f1_adj_strict": 0.5632459975619668
+  },
+  "probe": {
+    "sha": "3db64acb1026",
+    "prompt": "Metnin zaytung tarzı satirik bir haber olup olmadığını tespit et. Alaycı dille, absürt eleştiriler ve abartılı ifadeler içeriyorsa EVET; gerçek olayları net bir şekilde anlatıyorsa HAYIR yaz.",
+    "split": "probe",
+    "n": 200,
+    "coverage_strict": 0.49,
+    "coverage_loose": 0.49,
+    "f1_used_strict": 0.2740740740740741,
+    "f1_used_loose": 0.2740740740740741,
+    "f1_wrong_strict": 0.15611814345991562,
+    "f1_adj_strict": 0.1342962962962963
+  },
+  "gap_pp": 18.400000000000006
+}

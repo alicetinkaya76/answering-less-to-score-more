@@ -1,0 +1,5 @@
+CEVAP: EVET
+
+Bu metin, belirli bir kişinin ya da karakterin öyküsünü anlatırken kullanılan tuhaf ve aşırı描写给定文本特征的指令时，我将给出对这段文字是否为讽刺或 parody 新闻的判断。根据提供的句子内容和风格，这看起来像是在以一种夸张、幽默的方式描述某个人物的特点，并非严肃新闻报道。因此：
+
+答案是：EVET（表示这是讽刺/parody 类型的内容）。

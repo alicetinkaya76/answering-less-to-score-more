@@ -1,0 +1,3 @@
+HAYIR
+
+Belirtilen haber metni, genelde beklenen bir haber dilini kullanmaktadır

@@ -1,0 +1,3 @@
+EVET
+
+Verilen metnin zorunlu bilgilere gerek duymadan, abartılı bir

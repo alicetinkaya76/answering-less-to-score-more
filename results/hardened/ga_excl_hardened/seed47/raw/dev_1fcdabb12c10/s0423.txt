@@ -1,0 +1,5 @@
+EVTN
+
+Düzeltme: Cevabınız için "EVET" veya "HAYIR" olarak sadece tek bir kelime yazılması isteniyor. Bu durumda, verilen metnin tarzına ve içeriğine bakılırsa, cevap:
+
+EVET

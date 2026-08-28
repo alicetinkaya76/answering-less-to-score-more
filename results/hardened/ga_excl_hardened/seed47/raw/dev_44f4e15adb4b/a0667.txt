@@ -1,0 +1,3 @@
+Hayır
+
+Bu metin bir satirik haber değil, resmi bir haber kaydı gibi görünüyor. Satirik habер текст中含有不必要的信息，根据要求只回答是否为讽刺性新闻，给定的文本显然不是讽刺性的新闻报道，因此答案是“不”或“否”。

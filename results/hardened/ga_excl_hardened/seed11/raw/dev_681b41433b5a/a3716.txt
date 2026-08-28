@@ -1,0 +1,3 @@
+Haber metninizde verilen bilgiler basitçe bir haber özetini ifade ediyor. Bu metin formülasyonu, resmi ve doğrudan haberlerin genellikle kullandığı tarzda yazılmış gibi görünüyor. Satirik veya şakalayan bir ton belirtisi bulunmuyor.
+
+Cevap: HAYIR

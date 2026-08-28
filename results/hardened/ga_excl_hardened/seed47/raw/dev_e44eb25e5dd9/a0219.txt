@@ -1,0 +1,5 @@
+CEVAP: HAYIR
+
+Bu metin bir haber metninin parçası gibi görünüyor ancak tamamen客观评价该新闻文本的性质，给定的句子描述了与足球俱乐部和球员签约相关的细节。这种类型的文本通常出现在体育新闻报道中，因此可以被归类为现实新闻而非讽刺或虚构内容。所以更准确的回答应该是：
+
+CEVAP: EVET

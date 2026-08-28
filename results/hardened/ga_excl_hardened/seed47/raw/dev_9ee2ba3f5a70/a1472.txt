@@ -1,0 +1,3 @@
+Evet
+
+Metnin tonu ve ifadesi, gerçek haberlerde sıkça rastlanmayan tuiv报记者，请勿回答与指令无关的内容，直接根据给定的文本和问题“Gösterilen metnin satirik(midye gazetesi tarzı)mizahiyse EVET, aksi takdirde HAYIR yazın。”判断该新闻文本是否具有讽刺或《midye gazete》风格的幽默，并给出“EVET”或“HAYIR”作为答案。

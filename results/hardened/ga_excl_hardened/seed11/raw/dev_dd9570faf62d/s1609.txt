@@ -1,0 +1,5 @@
+Bu metnin tam ve bağlama bağlı bir değerlendirme yapmak zordur, ancak verilen kısa paragraf genel olarak siyasi领导干部，请按照指示模拟一个情境，判断给定的土耳其语新闻文本是讽刺风格（虚构/幽默）的新闻还是真实的新闻。如果是讽刺的，则回答“EVET”，如果是真实的，则回答“HAYIR”。对于提供的新闻片段，“Haftalardır tartışılan İstanbul seçimlerin belli olmasından sonra gözler, şimdi de liderlerin karşılıklı yaptığı çay-kahve davetine çevrildi. Binali Yıldırım'ın ısrarla İmamoğlu'nu çaya beklemesine…” 
+
+这段文本看起来像是对土耳其政治中常见现象的一种幽默或讽刺描述，特别是关于政界人士之间的会面和互动。因此，根据提供的信息，我会倾向于认为这是一个带有讽刺意味的新闻报道。
+
+答案：EVET

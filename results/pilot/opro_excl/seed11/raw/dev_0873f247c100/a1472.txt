@@ -1,0 +1,1 @@
+Haber metninde absürt ya da alaycı ifadelerin varlığını kontrol ettik ve sat

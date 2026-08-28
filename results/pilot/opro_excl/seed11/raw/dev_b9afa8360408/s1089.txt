@@ -1,0 +1,3 @@
+EVET
+
+Bu metin, sanal gazete Zaytung'un tarzını andırır ve abs

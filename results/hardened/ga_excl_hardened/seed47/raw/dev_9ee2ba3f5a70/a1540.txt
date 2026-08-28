@@ -1,0 +1,9 @@
+HAYIR
+
+Verilen metin, resmi bir haber tonunda yazılmış olup satirik veya mizahi unsurlara sahip görünmüyor. Satirik bir yazının genellikle belirticileri şunlar olur:
+
+1. Oyuncak kelime oyunları veya abartılı ifadeler.
+2. İronik ve kritik bir bakış açısıyla yazılmış olması.
+3. Gerçekten meydana gelmemiş ya da aşırılaştırılmış durumlarla ilgili haberler.
+
+Bu metnin bu özelliklere sahip olmadığından, EVET cevabı vermek uygun olmaz.

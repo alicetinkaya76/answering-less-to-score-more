@@ -1,0 +1,5 @@
+Evet
+
+Bu metin satırsal bir özellik göstermektedir, çünkü:
+
+1. Kurgu

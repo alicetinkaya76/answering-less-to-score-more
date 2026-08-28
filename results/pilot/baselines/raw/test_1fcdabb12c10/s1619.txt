@@ -1,0 +1,3 @@
+EVTN
+
+Düzeltme: Cevabınız için "HAYIR" veya "EVET"

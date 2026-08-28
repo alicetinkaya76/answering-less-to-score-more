@@ -1,0 +1,1 @@
+Verilen metin parçası yetersiz bilgi içeriyor, bu yüzden doğrudan bir karar ver

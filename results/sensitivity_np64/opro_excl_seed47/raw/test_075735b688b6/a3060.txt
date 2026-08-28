@@ -1,0 +1,1 @@
+Haber metni verilen bilgilere dayanarak ciddi bir haber tarzında yazılmış gibi görünüyor. Bu nedenle cevap HAYIR olmalıdır. Ancak, haberin tam metninin verilmediği için kesin bir değerlendirme yapmak zordur;

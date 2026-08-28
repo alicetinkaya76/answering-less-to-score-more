@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber kaynağı tarafından verilen bilgileri aktarmaktadır ve bu nedenle gerçek bir haber olarak kategorize edilebilir. Metnin içeriği Ukrayna'nın cumhurbaşkanı Volodimir Zelenskiy'in Rusya ile sürmekte olan savaş hakkında yaptığı açıklamalarla ilgili olup, bu tür içerikler genellikle haber sitelerinde yer alır.

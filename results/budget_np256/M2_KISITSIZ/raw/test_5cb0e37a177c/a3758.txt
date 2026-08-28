@@ -1,0 +1,3 @@
+Haber metninde belirtildiği kadarıyla, bir kuruluşun başkanının resmi bir konuda açıklamasını veriyor. Bu tür bir içerik genellikle gerçek haber kaynağı olarak değerlendirilir. Metnin satirik veya parodi olduğunu gösteren açık bir işaret bulunmuyor. Dolayısıyla bu bir satirik/parodi haberi değil, gerçek habercilik niteliğindedir.
+
+CEVAP: HAYIR (gerçek)

@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir satirik/parodi haber değil, gerçek bir spor haberi gibi görünüyor. Metnin içeriğinde sporcunun yaşadığı zorluklar ve bu zorlukları aşarak參數太多了，實際上對於這個任務只需要兩個參數："haber_metni"（新聞文本）和"cevap"（回答），其中回答應該是單詞"Evet"或"Hayir"。根據提供的新聞文本內容，這是一個關於視障柔道運動員參加比賽的真實新聞報導，因此答案應為"HAYIR"，表示這不是諷刺或模仿新聞。

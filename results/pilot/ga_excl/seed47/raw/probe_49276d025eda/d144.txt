@@ -1,0 +1,1 @@
+Haber metni verilen bağlamda gerçek haber niteliğindedir. Bu tür bir dizi geliş

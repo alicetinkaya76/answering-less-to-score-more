@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen haber metni, bir çevreci projenin ilerlediğini bildir

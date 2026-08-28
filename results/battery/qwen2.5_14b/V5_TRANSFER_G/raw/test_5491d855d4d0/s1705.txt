@@ -1,0 +1,1 @@
+Haber metninde sadece bilgilendirme amacıyla yazılmış olduğu belirtilmemişse long

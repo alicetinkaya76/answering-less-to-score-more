@@ -1,0 +1,268 @@
+{
+  "baseline": {
+    "name": "M2",
+    "sha": "8182b54e3e74",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+    "dev": {
+      "sha": "8182b54e3e74",
+      "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+      "split": "dev",
+      "n": 175,
+      "coverage_strict": 1.0,
+      "coverage_loose": 1.0,
+      "f1_used_strict": 0.8108108108108109,
+      "f1_used_loose": 0.8108108108108109,
+      "f1_wrong_strict": 0.8108108108108109,
+      "f1_adj_strict": 0.8108108108108109
+    },
+    "test": {
+      "sha": "8182b54e3e74",
+      "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+      "split": "test",
+      "n": 500,
+      "coverage_strict": 1.0,
+      "coverage_loose": 1.0,
+      "f1_used_strict": 0.7930194805194806,
+      "f1_used_loose": 0.7930194805194806,
+      "f1_wrong_strict": 0.7930194805194806,
+      "f1_adj_strict": 0.7930194805194806
+    }
+  },
+  "all": [
+    {
+      "name": "M1",
+      "sha": "1fcdabb12c10",
+      "prompt": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey ekleme.",
+      "dev": {
+        "sha": "1fcdabb12c10",
+        "prompt": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey ekleme.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 0.7714285714285715,
+        "coverage_loose": 0.92,
+        "f1_used_strict": 0.8077835785476981,
+        "f1_used_loose": 0.8104395604395604,
+        "f1_wrong_strict": 0.6956559065934066,
+        "f1_adj_strict": 0.62314733202251
+      },
+      "test": {
+        "sha": "1fcdabb12c10",
+        "prompt": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey ekleme.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 0.774,
+        "coverage_loose": 0.9,
+        "f1_used_strict": 0.7848837209302326,
+        "f1_used_loose": 0.7945426843344567,
+        "f1_wrong_strict": 0.6744027666932695,
+        "f1_adj_strict": 0.6075
+      }
+    },
+    {
+      "name": "M2",
+      "sha": "8182b54e3e74",
+      "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+      "dev": {
+        "sha": "8182b54e3e74",
+        "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.8108108108108109,
+        "f1_used_loose": 0.8108108108108109,
+        "f1_wrong_strict": 0.8108108108108109,
+        "f1_adj_strict": 0.8108108108108109
+      },
+      "test": {
+        "sha": "8182b54e3e74",
+        "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.7930194805194806,
+        "f1_used_loose": 0.7930194805194806,
+        "f1_wrong_strict": 0.7930194805194806,
+        "f1_adj_strict": 0.7930194805194806
+      }
+    },
+    {
+      "name": "M3",
+      "sha": "f48be91c8721",
+      "prompt": "Görev: Türkçe haber sınıflandırma. Etiketler: EVET = satirik/hicivli uydurma haber, HAYIR = gerçek haber. Sadece etiketi yaz.",
+      "dev": {
+        "sha": "f48be91c8721",
+        "prompt": "Görev: Türkçe haber sınıflandırma. Etiketler: EVET = satirik/hicivli uydurma haber, HAYIR = gerçek haber. Sadece etiketi yaz.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 0.9714285714285714,
+        "coverage_loose": 0.9714285714285714,
+        "f1_used_strict": 0.5041666666666667,
+        "f1_used_loose": 0.5041666666666667,
+        "f1_wrong_strict": 0.49702380952380953,
+        "f1_adj_strict": 0.48976190476190473
+      },
+      "test": {
+        "sha": "f48be91c8721",
+        "prompt": "Görev: Türkçe haber sınıflandırma. Etiketler: EVET = satirik/hicivli uydurma haber, HAYIR = gerçek haber. Sadece etiketi yaz.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 0.976,
+        "coverage_loose": 0.976,
+        "f1_used_strict": 0.5133110803549621,
+        "f1_used_loose": 0.5133110803549621,
+        "f1_wrong_strict": 0.507030151538822,
+        "f1_adj_strict": 0.500991614426443
+      }
+    },
+    {
+      "name": "M4",
+      "sha": "1885f9ea4cdf",
+      "prompt": "Metindeki olayların gerçekten yaşanmış habercilik mi yoksa mizah amaçlı kurgulanmış hiciv mi olduğunu değerlendir. Anlatılanlar absürt, alaycı veya kasıtlı abartılıysa EVET; gerçek bir olayın aktarımıysa HAYIR yaz. Açıklama yazma, yalnızca EVET veya HAYIR.",
+      "dev": {
+        "sha": "1885f9ea4cdf",
+        "prompt": "Metindeki olayların gerçekten yaşanmış habercilik mi yoksa mizah amaçlı kurgulanmış hiciv mi olduğunu değerlendir. Anlatılanlar absürt, alaycı veya kasıtlı abartılıysa EVET; gerçek bir olayın aktarımıysa HAYIR yaz. Açıklama yazma, yalnızca EVET veya HAYIR.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 0.96,
+        "coverage_loose": 0.96,
+        "f1_used_strict": 0.6952380952380952,
+        "f1_used_loose": 0.6952380952380952,
+        "f1_wrong_strict": 0.680281690140845,
+        "f1_adj_strict": 0.6674285714285714
+      },
+      "test": {
+        "sha": "1885f9ea4cdf",
+        "prompt": "Metindeki olayların gerçekten yaşanmış habercilik mi yoksa mizah amaçlı kurgulanmış hiciv mi olduğunu değerlendir. Anlatılanlar absürt, alaycı veya kasıtlı abartılıysa EVET; gerçek bir olayın aktarımıysa HAYIR yaz. Açıklama yazma, yalnızca EVET veya HAYIR.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 0.96,
+        "coverage_loose": 0.966,
+        "f1_used_strict": 0.6416167707936936,
+        "f1_used_loose": 0.6430493443492762,
+        "f1_wrong_strict": 0.6269770626497775,
+        "f1_adj_strict": 0.6159520999619459
+      }
+    },
+    {
+      "name": "M5",
+      "sha": "57cc88508f0d",
+      "prompt": "Soru: Bu haber satirik mi? Cevabını yalnızca EVET veya HAYIR olarak ver.",
+      "dev": {
+        "sha": "57cc88508f0d",
+        "prompt": "Soru: Bu haber satirik mi? Cevabını yalnızca EVET veya HAYIR olarak ver.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.6378104481872681,
+        "f1_used_loose": 0.6378104481872681,
+        "f1_wrong_strict": 0.6378104481872681,
+        "f1_adj_strict": 0.6378104481872681
+      },
+      "test": {
+        "sha": "57cc88508f0d",
+        "prompt": "Soru: Bu haber satirik mi? Cevabını yalnızca EVET veya HAYIR olarak ver.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.6145295467584624,
+        "f1_used_loose": 0.6145295467584624,
+        "f1_wrong_strict": 0.6145295467584624,
+        "f1_adj_strict": 0.6145295467584624
+      }
+    },
+    {
+      "name": "M6",
+      "sha": "d2deac80cf2e",
+      "prompt": "Sana bir Türkçe haber metni vereceğim. Metin satir (Zaytung benzeri mizahi uydurma haber) içeriyorsa EVET, ciddi ve gerçek bir haberse HAYIR yaz. Cevabın ilk satırında sadece bu etiket bulunsun.",
+      "dev": {
+        "sha": "d2deac80cf2e",
+        "prompt": "Sana bir Türkçe haber metni vereceğim. Metin satir (Zaytung benzeri mizahi uydurma haber) içeriyorsa EVET, ciddi ve gerçek bir haberse HAYIR yaz. Cevabın ilk satırında sadece bu etiket bulunsun.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.6354295399173758,
+        "f1_used_loose": 0.6354295399173758,
+        "f1_wrong_strict": 0.6354295399173758,
+        "f1_adj_strict": 0.6354295399173758
+      },
+      "test": {
+        "sha": "d2deac80cf2e",
+        "prompt": "Sana bir Türkçe haber metni vereceğim. Metin satir (Zaytung benzeri mizahi uydurma haber) içeriyorsa EVET, ciddi ve gerçek bir haberse HAYIR yaz. Cevabın ilk satırında sadece bu etiket bulunsun.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.606714456819035,
+        "f1_used_loose": 0.606714456819035,
+        "f1_wrong_strict": 0.606714456819035,
+        "f1_adj_strict": 0.606714456819035
+      }
+    },
+    {
+      "name": "M7",
+      "sha": "3cd43654ef49",
+      "prompt": "Aşağıdaki metni içerik açısından değerlendir: haber üslubu ciddi görünse bile anlatılan olay uydurma, imkânsız veya toplumsal eleştiri amaçlı bir parodi ise EVET; doğrulanabilir gerçek bir gelişmeyi aktarıyorsa HAYIR yaz. Tek kelimelik cevap ver.",
+      "dev": {
+        "sha": "3cd43654ef49",
+        "prompt": "Aşağıdaki metni içerik açısından değerlendir: haber üslubu ciddi görünse bile anlatılan olay uydurma, imkânsız veya toplumsal eleştiri amaçlı bir parodi ise EVET; doğrulanabilir gerçek bir gelişmeyi aktarıyorsa HAYIR yaz. Tek kelimelik cevap ver.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 0.9657142857142857,
+        "coverage_loose": 0.9657142857142857,
+        "f1_used_strict": 0.6293859649122807,
+        "f1_used_loose": 0.6293859649122807,
+        "f1_wrong_strict": 0.6166666666666667,
+        "f1_adj_strict": 0.6078070175438597
+      },
+      "test": {
+        "sha": "3cd43654ef49",
+        "prompt": "Aşağıdaki metni içerik açısından değerlendir: haber üslubu ciddi görünse bile anlatılan olay uydurma, imkânsız veya toplumsal eleştiri amaçlı bir parodi ise EVET; doğrulanabilir gerçek bir gelişmeyi aktarıyorsa HAYIR yaz. Tek kelimelik cevap ver.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 0.992,
+        "coverage_loose": 0.992,
+        "f1_used_strict": 0.581570408825438,
+        "f1_used_loose": 0.581570408825438,
+        "f1_wrong_strict": 0.57890303085798,
+        "f1_adj_strict": 0.5769178455548345
+      }
+    },
+    {
+      "name": "M8",
+      "sha": "31f9cfc33280",
+      "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+      "dev": {
+        "sha": "31f9cfc33280",
+        "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+        "split": "dev",
+        "n": 175,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.769433465085639,
+        "f1_used_loose": 0.769433465085639,
+        "f1_wrong_strict": 0.769433465085639,
+        "f1_adj_strict": 0.769433465085639
+      },
+      "test": {
+        "sha": "31f9cfc33280",
+        "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+        "split": "test",
+        "n": 500,
+        "coverage_strict": 1.0,
+        "coverage_loose": 1.0,
+        "f1_used_strict": 0.7412476491402269,
+        "f1_used_loose": 0.7412476491402269,
+        "f1_wrong_strict": 0.7412476491402269,
+        "f1_adj_strict": 0.7412476491402269
+      }
+    }
+  ],
+  "disagreement": 0.4228571428571429,
+  "audition_verdict": "GO",
+  "realized_unique_evals": 16
+}

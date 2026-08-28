@@ -1,0 +1,3 @@
+Haber metnindeki bilgiler normal ve ciddi bir spor haberinin içeriğini içeriyor; yani turna tarihi, saati ve hakem bilgisi veriliyor. Bu nedenle, bu bir zaytung tarzı şakacık habercik değil.
+
+Cevap: HAYIR

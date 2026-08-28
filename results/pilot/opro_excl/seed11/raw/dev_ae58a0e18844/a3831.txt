@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber duyurusu tarzında yazılmış gibi görünüyor ve gerçek

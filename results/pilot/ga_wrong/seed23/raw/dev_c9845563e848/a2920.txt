@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, bilimsel bir araştırma veya keşif gibi gerçek olay

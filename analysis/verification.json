@@ -1,0 +1,737 @@
+[
+ {
+  "section": "main",
+  "name": "opro_excl/11 f1_used",
+  "expected": 0.8887,
+  "got": 0.8887473778843272,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/11 coverage",
+  "expected": 0.33,
+  "got": 0.33,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/11 f1_wrong",
+  "expected": 0.4398,
+  "got": 0.43975554024155816,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/23 f1_used",
+  "expected": 0.9145,
+  "got": 0.9145098039215687,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/23 coverage",
+  "expected": 0.436,
+  "got": 0.436,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/23 f1_wrong",
+  "expected": 0.5418,
+  "got": 0.541820393910426,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/47 f1_used",
+  "expected": 0.9079,
+  "got": 0.9078947368421053,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/47 coverage",
+  "expected": 0.266,
+  "got": 0.266,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "opro_excl/47 f1_wrong",
+  "expected": 0.3741,
+  "got": 0.37407683925905,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/11 f1_used",
+  "expected": 0.9242,
+  "got": 0.924197729507464,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/11 coverage",
+  "expected": 0.424,
+  "got": 0.424,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/11 f1_wrong",
+  "expected": 0.55,
+  "got": 0.5499557913351016,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/23 f1_used",
+  "expected": 0.8357,
+  "got": 0.8356765542462414,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/23 coverage",
+  "expected": 0.674,
+  "got": 0.674,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/23 f1_wrong",
+  "expected": 0.6582,
+  "got": 0.6582014542343884,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/47 f1_used",
+  "expected": 0.8373,
+  "got": 0.8373218031593819,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/47 coverage",
+  "expected": 0.4,
+  "got": 0.4,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_excl/47 f1_wrong",
+  "expected": 0.4598,
+  "got": 0.45976893628657367,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/11 f1_used",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/11 coverage",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/11 f1_wrong",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/23 f1_used",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/23 coverage",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/23 f1_wrong",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/47 f1_used",
+  "expected": 0.826,
+  "got": 0.8259658893143056,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/47 coverage",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "ga_wrong/47 f1_wrong",
+  "expected": 0.826,
+  "got": 0.8259658893143056,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "baseline M2 test f1",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "baseline M2 test cov",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "main",
+  "name": "disagreement dev",
+  "expected": 0.423,
+  "got": 0.4228571428571429,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M1 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M2 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M3 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M4 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M5 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M6 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M7 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "manual",
+  "name": "M8 f1/cov/fw",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "early",
+  "name": "M1 dev f1_used",
+  "expected": 0.8078,
+  "got": 0.8077835785476981,
+  "pass": true
+ },
+ {
+  "section": "early",
+  "name": "M1 dev unanswered%",
+  "expected": 0.23,
+  "got": 0.22857142857142854,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed11_KISITLI cov",
+  "expected": 0.996,
+  "got": 0.996,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed11_KISITLI f1",
+  "expected": 0.5987,
+  "got": 0.598718066111162,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed23_KISITLI cov",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed23_KISITLI f1",
+  "expected": 0.5995,
+  "got": 0.5994975514736669,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed47_KISITLI cov",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "opro_excl_seed47_KISITLI f1",
+  "expected": 0.3627,
+  "got": 0.3627112977705343,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed11_KISITLI cov",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed11_KISITLI f1",
+  "expected": 0.5726,
+  "got": 0.5726102941176471,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed23_KISITLI cov",
+  "expected": 0.958,
+  "got": 0.958,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed23_KISITLI f1",
+  "expected": 0.6063,
+  "got": 0.6062592726252055,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed47_KISITLI cov",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "mechanism",
+  "name": "ga_excl_seed47_KISITLI f1",
+  "expected": 0.6178,
+  "got": 0.6178389235500098,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M8_KISITSIZ dcov_pp",
+  "expected": -26.6,
+  "got": -26.6,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M8_KISITSIZ df1",
+  "expected": 0.129,
+  "got": 0.1285858817721831,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M2_KISITSIZ dcov_pp",
+  "expected": -29.0,
+  "got": -29.000000000000004,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M2_KISITSIZ df1",
+  "expected": 0.081,
+  "got": 0.08064912961884418,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M1_KISITSIZ dcov_pp",
+  "expected": -51.4,
+  "got": -51.4,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M1_KISITSIZ df1",
+  "expected": -0.211,
+  "got": -0.21075717405547068,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M5_KISITSIZ dcov_pp",
+  "expected": -1.0,
+  "got": -1.0000000000000009,
+  "pass": true
+ },
+ {
+  "section": "reverse",
+  "name": "M5_KISITSIZ df1",
+  "expected": -0.119,
+  "got": -0.11886253561253568,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M2_HAM cov@256",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M2_HAM f1@256",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M2_KISITSIZ cov@256",
+  "expected": 0.746,
+  "got": 0.746,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M2_KISITSIZ f1@256",
+  "expected": 0.8722,
+  "got": 0.8722165125042822,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M8_KISITSIZ cov@256",
+  "expected": 0.846,
+  "got": 0.846,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M8_KISITSIZ f1@256",
+  "expected": 0.8446,
+  "got": 0.8445638693675073,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "opro_excl_seed47 cov@256",
+  "expected": 0.522,
+  "got": 0.522,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "opro_excl_seed47 f1@256",
+  "expected": 0.8129,
+  "got": 0.8128507295173961,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "ga_excl_seed11 cov@256",
+  "expected": 0.718,
+  "got": 0.718,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "ga_excl_seed11 f1@256",
+  "expected": 0.8212,
+  "got": 0.8212049215796736,
+  "pass": true
+ },
+ {
+  "section": "budget",
+  "name": "M2 bit-identical f1",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "central",
+  "name": "M2_HAM real F1 (loose@256)",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "central",
+  "name": "M2_KISITSIZ real F1 (loose@256)",
+  "expected": 0.824,
+  "got": 0.8239550332141032,
+  "pass": true
+ },
+ {
+  "section": "central",
+  "name": "M8_KISITSIZ real F1 (loose@256)",
+  "expected": 0.8135,
+  "got": 0.8135286935286935,
+  "pass": true
+ },
+ {
+  "section": "central",
+  "name": "ga_excl_seed11 real F1 (loose@256)",
+  "expected": 0.755,
+  "got": 0.7549719011152201,
+  "pass": true
+ },
+ {
+  "section": "central",
+  "name": "opro_excl_seed47 real F1 (loose@256)",
+  "expected": 0.732,
+  "got": 0.7320405705389403,
+  "pass": true
+ },
+ {
+  "section": "hardened",
+  "name": "dev fits",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "hardened",
+  "name": "seed11 test real (loose)",
+  "expected": 0.8212,
+  "got": 0.8212297474086746,
+  "pass": true
+ },
+ {
+  "section": "hardened",
+  "name": "seed23 test real (loose)",
+  "expected": 0.8124,
+  "got": 0.8124091929731871,
+  "pass": true
+ },
+ {
+  "section": "hardened",
+  "name": "seed47 test real (loose)",
+  "expected": 0.793,
+  "got": 0.7930194805194806,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed11 strict-pick cov (pool)",
+  "expected": 0.606,
+  "got": 0.6057142857142858,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed11 loose-pick cov (pool)",
+  "expected": 0.937,
+  "got": 0.9371428571428572,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed23 strict-pick cov (pool)",
+  "expected": 0.691,
+  "got": 0.6914285714285714,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed23 loose-pick cov (pool)",
+  "expected": 0.863,
+  "got": 0.8628571428571429,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed47 strict-pick cov (pool)",
+  "expected": 0.8,
+  "got": 0.8,
+  "pass": true
+ },
+ {
+  "section": "rescore",
+  "name": "seed47 loose-pick cov (pool)",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "7b",
+  "name": "baseline f1",
+  "expected": 0.7613,
+  "got": 0.7612776136203743,
+  "pass": true
+ },
+ {
+  "section": "7b",
+  "name": "manipulations",
+  "expected": 0,
+  "got": 0,
+  "pass": true
+ },
+ {
+  "section": "7b",
+  "name": "flat seeds at 0.7998",
+  "expected": 2,
+  "got": 2,
+  "pass": true
+ },
+ {
+  "section": "fwrong",
+  "name": "mean |gap|",
+  "expected": 0.077,
+  "got": 0.0767786494294208,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "OPRO bin cov>=0.8",
+  "expected": 0.685,
+  "got": 0.686907533810873,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "OPRO bin 0.5-0.8",
+  "expected": 0.8,
+  "got": 0.7992552499083793,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "OPRO bin <0.5",
+  "expected": 0.881,
+  "got": 0.8805716150945049,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "best honest improv (excl runs)",
+  "expected": 0.008,
+  "got": 0.007702934893656477,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "honest improvements excl",
+  "expected": 2,
+  "got": 2,
+  "pass": true
+ },
+ {
+  "section": "landscape",
+  "name": "honest improvements wrong",
+  "expected": 1,
+  "got": 1,
+  "pass": true
+ },
+ {
+  "section": "traj",
+  "name": "OPRO s11 corrected cov step0",
+  "expected": 1.0,
+  "got": 1.0,
+  "pass": true
+ },
+ {
+  "section": "traj",
+  "name": "OPRO s11 corrected cov step1",
+  "expected": 0.37,
+  "got": 0.37142857142857144,
+  "pass": true
+ },
+ {
+  "section": "traj",
+  "name": "OPRO s11 corrected cov step2",
+  "expected": 0.33,
+  "got": 0.32571428571428573,
+  "pass": true
+ },
+ {
+  "section": "class",
+  "name": "ga47 satirical cov",
+  "expected": 0.18,
+  "got": 0.18,
+  "pass": true
+ },
+ {
+  "section": "class",
+  "name": "ga47 real cov",
+  "expected": 0.62,
+  "got": 0.62,
+  "pass": true
+ },
+ {
+  "section": "class",
+  "name": "hard core size",
+  "expected": 59,
+  "got": 59,
+  "pass": true
+ },
+ {
+  "section": "class",
+  "name": "hard core satirical",
+  "expected": 58,
+  "got": 58,
+  "pass": true
+ },
+ {
+  "section": "anatomy",
+  "name": "median words",
+  "expected": 11,
+  "got": 11,
+  "pass": true
+ },
+ {
+  "section": "anatomy",
+  "name": "truncated frac",
+  "expected": 0.98,
+  "got": 0.9636887608069165,
+  "pass": true
+ }
+]

@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek haber appears to be a summary or introduction of an actual news event

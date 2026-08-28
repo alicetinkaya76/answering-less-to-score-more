@@ -1,0 +1,3 @@
+EVET
+
+Haber metni, zorunlu olarak verilen bağlamda belirli bir yorum

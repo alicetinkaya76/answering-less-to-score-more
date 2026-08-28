@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "sha": "8182b54e3e74",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.7822812991094814,
+    "f1_used_loose": 0.7822812991094814,
+    "f1_wrong_strict": 0.7822812991094814,
+    "f1_wrong_loose": 0.7822812991094814,
+    "f1_adj_strict": 0.7822812991094814
+  },
+  "test": {
+    "sha": "8182b54e3e74",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.998,
+    "coverage_loose": 0.998,
+    "f1_used_strict": 0.7612776136203743,
+    "f1_used_loose": 0.7612776136203743,
+    "f1_wrong_strict": 0.7604990772687155,
+    "f1_wrong_loose": 0.7604990772687155,
+    "f1_adj_strict": 0.7597550583931335
+  }
+}

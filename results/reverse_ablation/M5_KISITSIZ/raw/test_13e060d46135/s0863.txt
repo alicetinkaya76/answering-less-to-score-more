@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metnin tamamen bağlama ve içeriklere bağlı olarak değişebilecek bir haber başlığı

@@ -1,0 +1,3 @@
+EVAETwitter adında bir hata var gibi görünüyor, sadece "EVET" veya "HAYIR" olmak üzere iki seçenekten biri yazılmalı. Bu metnin tarzı ve içeriği göz önüne alındığında, bu bir satirik haber örneği olarak yorumlanabilir. Dikkatli okuma sonucunda cevap:
+
+EVET

@@ -1,0 +1,35 @@
+{
+  "arm": "ga_excl",
+  "seed": 23,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.8610441767068273,
+  "best_sha": "6323428709bc",
+  "best_prompt": "Verilen haberin zaytung tarzı satirik bir haber olduğunu belirleyip, sonucu SADECE EVET ya da HAYIR olarak bildir.",
+  "dev": {
+    "sha": "6323428709bc",
+    "prompt": "Verilen haberin zaytung tarzı satirik bir haber olduğunu belirleyip, sonucu SADECE EVET ya da HAYIR olarak bildir.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 0.8628571428571429,
+    "coverage_loose": 0.9885714285714285,
+    "f1_used_strict": 0.8443787247389882,
+    "f1_used_loose": 0.8610441767068273,
+    "f1_wrong_strict": 0.7794335115458992,
+    "f1_wrong_loose": 0.855952380952381,
+    "f1_adj_strict": 0.7285782139176413
+  },
+  "test": {
+    "sha": "6323428709bc",
+    "prompt": "Verilen haberin zaytung tarzı satirik bir haber olduğunu belirleyip, sonucu SADECE EVET ya da HAYIR olarak bildir.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.858,
+    "coverage_loose": 0.988,
+    "f1_used_strict": 0.8249048122242909,
+    "f1_used_loose": 0.8124091929731871,
+    "f1_wrong_strict": 0.7586728699656938,
+    "f1_wrong_loose": 0.8071922049142931,
+    "f1_adj_strict": 0.7077683288884415
+  },
+  "realized_unique_evals": 39
+}

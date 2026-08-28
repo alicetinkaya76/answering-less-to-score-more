@@ -1,0 +1,1 @@
+Haber metnindeki ifade tarzı ve bağlama dayalı bir analiz yapılırsa,

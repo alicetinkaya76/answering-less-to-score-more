@@ -1,0 +1,1 @@
+Haber metniniz tamamlanmadığından, şaka olup olmadığını değerlendirmek zordur. Ancak verilen kısmı ele alındığında, bu bir resmi açıklama veya haber gibi görünüyor ve şaka olma eğiliminde değil. Tam bilgi için haberi tam olarak okumak veya başka bir kaynakta doğrulamak iyi olacaktır. Eğer metnin geri kalanı resmi bir açıklamayı destekliyorsa, cevap "HAYIR" olmalıdır.

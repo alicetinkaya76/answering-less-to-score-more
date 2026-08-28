@@ -1,0 +1,3 @@
+Cevap: HAYIR
+
+Bu metnin bir haber olma potansiyeli olduğuna dikkat çekiliyor. Ancak, belirli bir satirik tarz veya abartılı ifadelerin kullanılması durumunda bu tespit değişebilir. Metnin olduğu gibi verildiği sürece, bu bir gerçek haber metni olarak yorumlanabilir. Eğer metinde daha fazla abartı veya komik ifade varsa, bu da EVET cevabını gerektirebilir. Verilen metne dayanarak ve belirtilen kriterlere göre HAYIR cevabı veriliyor.

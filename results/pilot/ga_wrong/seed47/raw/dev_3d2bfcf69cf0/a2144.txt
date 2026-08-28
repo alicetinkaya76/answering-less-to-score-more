@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir dizi teknik bilgi içeren standart bir haber stiliyle

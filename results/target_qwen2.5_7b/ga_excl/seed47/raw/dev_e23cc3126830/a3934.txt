@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek bir spor haberidir. İçeriğinde NBA ligi

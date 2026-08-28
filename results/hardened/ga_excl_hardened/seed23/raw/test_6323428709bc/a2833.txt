@@ -1,0 +1,3 @@
+HAYIR
+
+Belirtilen haber metni, bir bilimsel gelişmeyi anlatan ve teknik detayları içeren standart bir haber tarzını takip ediyor. Bu metin zaytung tarzı satirik bir haber değil, bu nedenle cevap HAYIR olarak verilmiştir.

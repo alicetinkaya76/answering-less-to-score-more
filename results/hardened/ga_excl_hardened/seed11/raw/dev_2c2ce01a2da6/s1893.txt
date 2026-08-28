@@ -1,0 +1,3 @@
+Haber metni verdiğiniz içerik, resmi bir haber tarzında yazılmış görünüyor. Bu tür bir ifade tarzı genellikle gerçek haberlerde kullanılır. Belirtilen detaylar (örneğin, "Türkiye İstatistik Kurumu", "Çankaya Tesislerinde yapılan ihale") ve kullanılan dil de bu metnin gerçek bir haber olduğunu gösteriyor.
+
+Cevap: HAYIR

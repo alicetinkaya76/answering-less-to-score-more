@@ -1,0 +1,5 @@
+HAYIR
+
+Bu metnin satirik veya zaytung tarzında yazılmış bir haber olmadığı anlaşılıyor. Metin, genelde resmi ve nütral bir dille yazılan bir hava durumu预告文本的主题是判断给定的新闻文本是否为讽刺或幽默风格，回答应仅包含"YES"（是）或"NO"（否）。根据提供的内容：
+
+Cevap: NO

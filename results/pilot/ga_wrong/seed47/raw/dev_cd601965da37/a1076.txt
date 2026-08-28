@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber的样子，好像需要你判断给定的文本是否为讽刺性新闻

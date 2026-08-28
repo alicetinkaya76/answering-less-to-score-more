@@ -1,0 +1,3 @@
+EVET
+
+Bu metin ciddi bir olayı anlatmaya çalışıyor ancak bağlama ve if

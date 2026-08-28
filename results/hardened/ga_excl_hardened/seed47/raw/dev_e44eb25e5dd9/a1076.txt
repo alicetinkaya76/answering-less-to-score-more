@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber kaynağı tarafından yayınlanan ve mevcut olayları bildiren bir haberdarır. Metnin içeriği, bir siyasi figürün (Timoşçenko) duyurduğu bir olayın detaylarını içerir ve bu nedenle gerçek bir haber olarak kategorize edilebilir.

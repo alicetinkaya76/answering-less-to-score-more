@@ -1,0 +1,3 @@
+HAYIR
+
+Metnin verilen kısmı bir haber metni olarak görülebilir ve absürt ya da

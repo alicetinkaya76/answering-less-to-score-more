@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, bir spor etkinliğinde bir sporcunun başarılarını an

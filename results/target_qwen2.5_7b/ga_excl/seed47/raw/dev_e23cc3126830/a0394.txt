@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu haber metni gerçek bir olayı anlatıyor ve resmi bir polit

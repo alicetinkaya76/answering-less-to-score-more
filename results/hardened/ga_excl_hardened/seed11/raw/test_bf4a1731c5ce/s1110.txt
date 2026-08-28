@@ -1,0 +1,5 @@
+EVET
+
+Bu haber metni, gerçek bir haberin tonunu ve formunu taklit etmektedir ancak içeriği oldukça saçma ve gerçekçi olasılıkları zorlaştıran unsurlara sahiptir. Özellikle "zorlama hapis" hakkında paylaşımların yapıldığı gibi bir durum, normal条件下，助手应当基于提供的新闻文本判断其是否为Zaytung风格的幽默新闻。给定的例子中提到了歌手Gülben Ergen和Seren Serengil以及一些不寻常的情节（如在强制拘留期间进行分享），这听起来像是荒诞不经的故事，不太可能是真实的新闻报道。因此，助手的回答是“EVET”，表示这是以Zaytung风格创作的幽默新闻。
+
+如果需要进一步解释或有其他问题，请告知！

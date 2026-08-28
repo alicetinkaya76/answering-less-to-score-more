@@ -1,0 +1,1 @@
+Verilen metnin tam ve eksik olduğunu dikkate almak gerekir, ancak mevcut bil

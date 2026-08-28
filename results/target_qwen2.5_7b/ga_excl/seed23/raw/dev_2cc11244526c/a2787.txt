@@ -1,0 +1,3 @@
+EVET
+
+Bu haber satırı satirik bir yorum gibidir. İçeriğinde yer alan

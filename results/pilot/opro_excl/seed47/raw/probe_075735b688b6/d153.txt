@@ -1,0 +1,1 @@
+Haber metninin verilen bağlama ve diline bakarak, bu bir gerçek haber tarzında yazılm

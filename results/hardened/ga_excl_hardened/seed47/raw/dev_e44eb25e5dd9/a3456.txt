@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin, ABD'deki hava yolu trafiğini takip eden bir kaynak olan FlghtAware'e dayalı bilgileri sunmaktadır ve bu nedenle gerçek haber niteliğindedir. Metnin içeriği, belirli sayısal veriler (iptal edilen uçuş sayısı) ve güncel olayları (hava koşulları nedeniyle iptal edilen uçuşlar) hakkında bilgi içerdiği için satirik veya fiksiyon olma eğiliminde değildir.

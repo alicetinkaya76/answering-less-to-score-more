@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek haber gibidir.因为它描述的是一个具体的军事事件，

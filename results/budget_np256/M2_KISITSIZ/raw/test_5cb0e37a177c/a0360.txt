@@ -1,0 +1,7 @@
+Bu metnin tam ve konteynere dayalı bilgi olmadığından emin olmak için biraz daha fazla bağlam veya metin gerekebilir. Ancak verilen parçadan, bu bir satirik/parodi haber gibi görünüyor çünkü normal bir meteorolojik预告文本指出你应当基于提供的新闻片段判断其是否为讽刺或 parody 类型的新闻，而不是要求进一步的信息。根据给出的内容：
+
+"Haber metni: 'Valiliğin Twitter hesabından yapılan paylaşımda, ''Meteoroloji'ye göre; rüzgarın akşam saatlerinden itibaren etkisini artırarak bölge genelinde kuvvetli fırtına, İstanbul'un Avrupa Yakası'nda ise…'"
+
+这段新闻片段的语气和表达方式看起来像是在进行夸张或讽刺，特别是如果它以一种不寻常或者过度戏剧化的方式描述天气情况。因此，在没有更多上下文的情况下，我会倾向于认为这是一个 satirik（讽刺）类型的新闻。
+
+Cevap: EVET (satirik)

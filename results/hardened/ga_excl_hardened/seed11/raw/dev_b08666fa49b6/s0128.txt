@@ -1,0 +1,5 @@
+Haber metninin verilen kısmı bir şaka tarzında yazılmış olup olmadığını belirlemek için, içerik ve tonu inceleyebiliriz. Bu örnekte, "Türkmenistan Uzay Bilimleri ve Astronomi Enstitüsü"nin isyan ettiğini ifade eden cümle biraz tuhaftır ve normal haber dilinde karşılaşabileceğiniz türden bir ifadedir. Ancak, verilen metin parçası yetersiz olduğu için tam olarak şaka olup olmadığına dair kesin bir karar vermek zordur.
+
+Ancak, bu kısa metnin tonu ve kullanılan ifade tarzına bakarak, normal haber dilinden çok daha dramatik ve tuhaf bir şekilde yazılmış gibi görünüyor. Bu tür bir ifade genellikle zaytung tarzı şaka haberlerinde kullanılır.
+
+Cevap: EVET

@@ -1,0 +1,5 @@
+HAYIR
+
+Bu metin, resmi ve nütral bir dille yazılmış olduğu için satirik veya parodi haberi olma özelliği göstermemektedir. Bu tür bir ifade tarzı genellikle法庭指令：根据给定的新闻文本判断其是否为讽刺或模仿性质的新闻。如果是，回答“EVET”，如果不是，则回答“HAYIR”。提供的新闻文本是关于一次正式庭审过程的描述，没有表现出讽刺或模仿的特点。因此，答案应为：
+
+HAYIR

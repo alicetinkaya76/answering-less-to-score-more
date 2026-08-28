@@ -1,0 +1,5 @@
+EVTN
+
+Düzeltme: Cevabınız için "EVET" veya "HAYIR" olarak cevap vermeniz gerekiyor. Verilen metnin tonu ve içeriği göz önüne alındığında, bu bir satirik haber tarzı gibi görünüyor. Ancak belirtilen formatta sadece "EVET" veya "HAYIR" yazılması gerekmektedir.
+
+Doğru cevap: EVET

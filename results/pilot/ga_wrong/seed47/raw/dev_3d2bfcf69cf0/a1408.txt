@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir dizi finansal veriyi somut bir şekilde sunmaktadır ve

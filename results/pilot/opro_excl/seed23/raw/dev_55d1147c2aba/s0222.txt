@@ -1,0 +1,1 @@
+Verilen metnin parçası, basit bir haberin başlığını temsil etmektedir ve absü

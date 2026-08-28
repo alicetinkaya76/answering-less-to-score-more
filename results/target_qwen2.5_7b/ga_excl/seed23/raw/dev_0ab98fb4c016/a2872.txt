@@ -1,0 +1,3 @@
+HAYIR (gerçek haber)
+
+Bu metin gerçek bir haber bildiriminde görülebilecek bir dil

@@ -1,0 +1,3 @@
+Haber metninin vermiş olduğu bilgilere dayanarak, bu metin bir haber ajansının yazmış olduğu standart bir haberi temsil etmektedir. Metnin Zaytung tarzı satirik bir ton kullanmadığını düşünüyorum. Bu nedenle cevap:
+
+HAYIR

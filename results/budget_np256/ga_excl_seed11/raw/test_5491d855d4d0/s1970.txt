@@ -1,0 +1,3 @@
+Haber metninin verilen bağlamda sarkastik veya sahte olduğunu doğrudan belirtmediği için, bu durumda EVET veya HAYIR arasında karar vermek zordur. Metnin içeriğine bakılırsa, bir sağlık bakanı tarafından yayınlanan ve vaka sayılarının artmasıyla ilgili endişeleri ifade eden bir açıklamayı yansıtan gibi görünüyor. Ancak, bu tür açıklayıcılar genellikle sarkastik veya sahte olma eğiliminde değildir. Bu nedenle cevap olarak HAYIR vermek daha uygun olacaktır.
+
+Cevap: HAYIR

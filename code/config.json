@@ -1,0 +1,80 @@
+{
+  "ollama_url": "http://localhost:11434",
+  "target_model": "qwen2.5:14b",
+  "optimizer_model": "qwen2.5:14b",
+  "keep_alive": "30m",
+  "timeout_s": 180,
+  "decoding": {
+    "temperature": 0.0,
+    "num_predict": 24,
+    "seed": 7
+  },
+  "optimizer_decoding": {
+    "temperature": 0.9,
+    "num_predict": 400
+  },
+  "item_template": "{instruction}\n\nHaber metni: \"{text}\"\nCevap:",
+  "labels": {
+    "positive": "EVET",
+    "negative": "HAYIR"
+  },
+  "data": {
+    "path": "data/satire_tr.tsv",
+    "id_col": "id",
+    "text_col": "text",
+    "label_col": "label",
+    "label_map": {
+      "SATIRIK": "EVET",
+      "GERCEK": "HAYIR"
+    },
+    "dev_index_file": null,
+    "test_index_file": null,
+    "dev_size": 175,
+    "test_size": 500,
+    "split_seed": 20260706
+  },
+  "manual_prompts_file": "prompts_manual.json",
+  "seeds": [
+    11,
+    23,
+    47
+  ],
+  "ga": {
+    "pop": 10,
+    "gens": 5,
+    "tournament": 3,
+    "elites": 2,
+    "cx_prob": 0.9,
+    "mut_prob": 0.7,
+    "child_min_chars": 10,
+    "child_max_chars": 600,
+    "max_repair_retries": 2
+  },
+  "opro": {
+    "steps": 6,
+    "candidates_per_step": 8,
+    "exemplars": 3
+  },
+  "rs": {
+    "target_evals": 44
+  },
+  "manipulation": {
+    "delta_coverage_pp": -10.0,
+    "loose_gap_pp": 10.0
+  },
+  "gates": {
+    "f1wrong_margin_pp": 2.0,
+    "coverage_margin_pp": 5.0
+  },
+  "audition": {
+    "min_coverage": 0.85,
+    "f1_lo": 0.55,
+    "f1_hi": 0.85,
+    "min_disagreement": 0.1
+  },
+  "published_known_positive": null,
+  "published_baseline": null,
+  "results_dir": "results/pilot",
+  "task_description": "Türkçe haber metinlerinin satirik (Zaytung tarzı mizahi/uydurma haber) mi yoksa gerçek haber mi olduğunu sınıflandırma; EVET = satirik, HAYIR = gerçek haber",
+  "parallel_requests": 4
+}

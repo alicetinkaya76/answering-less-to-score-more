@@ -1,0 +1,5 @@
+# sha256 of the prepared corpus files, which are NOT redistributed here.
+# Rebuild them with code/00_prepare_data.py and compare.
+
+3079c71b06cd67c8b8ff96bb0387c2ff87ba3d409d84873cb6b472019ba8895a  data/satire_tr.tsv   (1019875 bytes)
+321401d342b4bbdcdf6905f17b46011c4d2c13278c9f370571821b7e618e0195  data/satire_probe_debiased.tsv   (46712 bytes)

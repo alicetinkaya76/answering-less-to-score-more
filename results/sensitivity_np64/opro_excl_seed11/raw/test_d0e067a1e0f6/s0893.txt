@@ -1,0 +1,1 @@
+Haber metni ciddi bir konuyu ele alıyor ve bu nedenle EVET olarak değerlendirilemez. Metnin absürt veya mizahi bir anlatım içermediği açısından, HAYIR cevabı verilir.

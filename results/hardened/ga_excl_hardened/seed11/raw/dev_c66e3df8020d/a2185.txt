@@ -1,0 +1,8 @@
+EVALUATION CRITERIA: The given text needs to be analyzed for its tone and style to determine if it fits the Zaytung satirical journalism format or a real news agency's style.
+
+ANALYSIS:
+The provided snippet appears to describe an ongoing protest action by parents whose children were taken to the mountains ("dağ kaçırma") in Erzurum, Turkey. The text is factual and straightforward, mentioning specific dates and names without any apparent sarcasm, exaggeration, or humorous elements that would be characteristic of satirical journalism like Zaytung.
+
+CONCLUSION:
+Based on the analysis, this snippet does not appear to contain satirical elements typical of a format such as Zaytung. It reads more like a straightforward news report.
+Cevap: HAYIR

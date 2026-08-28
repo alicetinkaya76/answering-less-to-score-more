@@ -1,0 +1,4 @@
+ETKİNET:YES
+HABER:TIRBULANCA
+
+Açıklama: Metnin içeri

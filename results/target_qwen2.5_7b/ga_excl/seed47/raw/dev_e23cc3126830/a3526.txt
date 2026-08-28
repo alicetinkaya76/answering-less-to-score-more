@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek bir hava durumu raporu gibi görünüyor ve soğ

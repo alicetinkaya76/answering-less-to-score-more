@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metnin satirik bir haber olma özelliği göstermemektedir. Bu metin, bir akademik faaliyette verilen bir konuşmanın özeti gibi görünmektedir ve bu tür içerikler genellikle gerçek haber kaynaklarında bulunur.

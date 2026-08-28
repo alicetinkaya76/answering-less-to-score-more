@@ -1,0 +1,5 @@
+HAYIR
+
+Metnin içeriği, bir stock exchange (borsa) endeksini ve sektörlerin performansını客观地分析给定的新闻文本，可以确定它是一篇真实的金融新闻报道。该段落描述了BIST 100指数（土耳其伊斯坦布尔证券交易所的主要股票市场指数）的表现情况，并提到了银行和控股公司的表现数据。这些内容符合标准财经新闻的特点，因此判断为真实新闻。
+
+回答：HAYIR

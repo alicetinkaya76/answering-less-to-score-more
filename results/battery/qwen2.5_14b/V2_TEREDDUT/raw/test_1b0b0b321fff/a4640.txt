@@ -1,0 +1,1 @@
+EVA (Bu istekteki bir hata gibi görünüyor, çünkü sadece EVET veya HAYIR

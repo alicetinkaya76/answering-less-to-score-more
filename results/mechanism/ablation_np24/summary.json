@@ -1,0 +1,62 @@
+[
+  {
+    "cond": "ablation_np24",
+    "name": "opro_excl_seed11_KISITLI",
+    "num_predict": 24,
+    "cov": 0.996,
+    "cov_loose": 0.998,
+    "f1_used": 0.598718066111162,
+    "f1_wrong": 0.5973152530032763,
+    "prompt": "Metni dikkatlice inceleyip, bu haber absürt bir anlatımla yazılıp yazılmadığını veya sadece mizahi amaçla yazılmış olup olmadığını belirle. Satirik/mizahi bir metot kullanılmışsa EVET, ciddi ve gerçek haber olsa HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  },
+  {
+    "cond": "ablation_np24",
+    "name": "opro_excl_seed23_KISITLI",
+    "num_predict": 24,
+    "cov": 1.0,
+    "cov_loose": 1.0,
+    "f1_used": 0.5994975514736669,
+    "f1_wrong": 0.5994975514736669,
+    "prompt": "Metni analiz ederek güncel olayları absürt, alaycı veya mizahi bir tarzda ele alan satirik haber mi yoksa gerçek haber mi olduğunu belirle. Satirik ton kullanılıyorsa EVET; aksi takdirde HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  },
+  {
+    "cond": "ablation_np24",
+    "name": "opro_excl_seed47_KISITLI",
+    "num_predict": 24,
+    "cov": 1.0,
+    "cov_loose": 1.0,
+    "f1_used": 0.3627112977705343,
+    "f1_wrong": 0.3627112977705343,
+    "prompt": "Metni ciddi bir haber mi yoksa absürt, alaycı bir satirik/mizahi haber tarzında yazılıp yazılmadığını belirle. Eğer metin gerçek olayları uydurmaca yoluyla sunuyorsa EVET; aksi takdirde HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  },
+  {
+    "cond": "ablation_np24",
+    "name": "ga_excl_seed11_KISITLI",
+    "num_predict": 24,
+    "cov": 1.0,
+    "cov_loose": 1.0,
+    "f1_used": 0.5726102941176471,
+    "f1_wrong": 0.5726102941176471,
+    "prompt": "Metni incelerken, haberin sarcastik veya sahte olup olmadığını belirleyin. Sarcastik ya da sahte bir haber görürseniz EVET, aksi takdirde HAYIR yazın. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  },
+  {
+    "cond": "ablation_np24",
+    "name": "ga_excl_seed23_KISITLI",
+    "num_predict": 24,
+    "cov": 0.958,
+    "cov_loose": 0.958,
+    "f1_used": 0.6062592726252055,
+    "f1_wrong": 0.591550223476829,
+    "prompt": "Metnin zaytung tarzı satirik bir haber olup olmadığını tespit et. Alaycı dille, absürt eleştiriler ve abartılı ifadeler içeriyorsa EVET; gerçek olayları net bir şekilde anlatıyorsa HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  },
+  {
+    "cond": "ablation_np24",
+    "name": "ga_excl_seed47_KISITLI",
+    "num_predict": 24,
+    "cov": 1.0,
+    "cov_loose": 1.0,
+    "f1_used": 0.6178389235500098,
+    "f1_wrong": 0.6178389235500098,
+    "prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey yazma."
+  }
+]

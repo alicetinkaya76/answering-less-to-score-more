@@ -1,0 +1,1 @@
+EVTENER["$"] = "EVET"; Cevabım EVET olarak verilmiştir, çünkü met

@@ -1,0 +1,3 @@
+Haber metni verilen durum, bir teknik sorunla ilgili gerçek haber niteliğindedir. Bu nedenle cevap:
+
+HAYIR

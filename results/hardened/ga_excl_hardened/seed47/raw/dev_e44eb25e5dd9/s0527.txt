@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber stiliyle yazılmış ve olağanüstü bir olayın veya durumun (bu örnekte Türk bankacılık sektörünün hesap işletme ücretleri için başarıya ulaştığı) hakkında bilgi vermektedir. Bu nedenle bu metni gerçek bir haber olarak sınıflandırabiliriz.

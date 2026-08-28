@@ -1,0 +1,3 @@
+CEVAP: HAYIR
+
+Bu metin,客观地分析给定文本后，显然包含了过多的

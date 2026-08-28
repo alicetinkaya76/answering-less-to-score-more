@@ -1,0 +1,5 @@
+EVTN
+
+Düzeltme: Yalnızca "EVET" veya "HAYIR" yazılması istenmektedir, bu nedenle sadece:
+
+EVET

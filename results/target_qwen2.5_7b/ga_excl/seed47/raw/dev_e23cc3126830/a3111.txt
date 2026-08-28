@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin, bir futbol oyununun ilerlemesini an

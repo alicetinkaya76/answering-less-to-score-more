@@ -1,0 +1,1 @@
+Haber metni verilen bilgiye dayalı olarak ciddi ve gerçek haber niteliğindedir. Bu nedenle cevap HAYIR olmalıdır. Metnin absürt veya mizahi bir anlatım içermediğini, sadece bir haberin detaylarını

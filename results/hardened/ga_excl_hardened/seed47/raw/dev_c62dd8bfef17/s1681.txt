@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metnin satirik veya şaka olmayan bir haber olduğunu belirtiyor. Ancak, "Fake Hospital" ifadesi satirik bir eleştiri anlamında kullanılabilir. Ancak verilen bağlama ve bilgiye dayanarak bu bir gerçek haber gibi görünüyor. Eğer "Fake Hospital" ismi burada satirik veya şaka niteliği taşıyorsa, metnin geri kalanı onun gerçek olduğunu varsayar. Bu durumda daha fazla kontekst belirtilebilir. Ancak verilen bilgilere dayanarak ve doğrudan bir aldatmaca ya da şaka belirtisi bulunmamasına rağmen, cevap HAYIR olarak verilir.

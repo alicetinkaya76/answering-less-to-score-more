@@ -1,0 +1,1 @@
+Haber metni verilen bilgiler, bir haberın genel yapısını takip ediyor ve abs

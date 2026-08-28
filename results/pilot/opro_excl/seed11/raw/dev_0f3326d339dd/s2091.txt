@@ -1,0 +1,1 @@
+Verilen metnin bağlama ve ifade tonuna bakılacak olursa, bu metni doğrudan

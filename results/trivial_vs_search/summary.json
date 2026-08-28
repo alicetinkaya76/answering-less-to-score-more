@@ -1,0 +1,26 @@
+[
+  {
+    "name": "M2_KISITSIZ",
+    "dev_fitness_loose": 0.7977323628219485,
+    "cov_loose": 0.9714285714285714,
+    "cov_strict": 0.7828571428571428,
+    "vs_ga": -0.053667637178051564,
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. EVET (satirik) ya da HAYIR (gerçek)."
+  },
+  {
+    "name": "M8_KISITSIZ",
+    "dev_fitness_loose": 0.8311156255290333,
+    "cov_loose": 0.9828571428571429,
+    "cov_strict": 0.8114285714285714,
+    "vs_ga": -0.02028437447096676,
+    "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz."
+  },
+  {
+    "name": "M1_KISITSIZ",
+    "dev_fitness_loose": 0.7873722022658193,
+    "cov_loose": 0.9771428571428571,
+    "cov_strict": 0.5371428571428571,
+    "vs_ga": -0.06402779773418077,
+    "prompt": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz."
+  }
+]

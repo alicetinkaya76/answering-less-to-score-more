@@ -1,0 +1,3 @@
+Haber metni verdiğiniz göre bu bir gerçek haber örneği olduğu için sonucum:
+
+HAYIR

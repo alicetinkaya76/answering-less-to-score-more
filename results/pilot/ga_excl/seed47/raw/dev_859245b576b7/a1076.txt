@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber olmak üzere yazılmış gibi görünmektedir ve satir

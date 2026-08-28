@@ -1,0 +1,3 @@
+Haber metni verilen bilgilere göre, bir futbol maçı hakkında gerçek haber niteliğinde bir açıklama içeriyor. Bu nedenle satirik veya şaka tarzında yazılmış olduğunu düşünmek zordur. Metnin içeriği, maçın tarihi, saati ve hakem bilgilerini vermektedir. Bu sebeple metni zaytung stili satirik bir haber olarak algılamak mümkün görünmüyor.
+
+Cevap: HAYIR

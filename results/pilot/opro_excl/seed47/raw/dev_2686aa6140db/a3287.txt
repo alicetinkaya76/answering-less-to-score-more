@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber başlığı veya haberci bir açıklamadan alınmış gibi görün

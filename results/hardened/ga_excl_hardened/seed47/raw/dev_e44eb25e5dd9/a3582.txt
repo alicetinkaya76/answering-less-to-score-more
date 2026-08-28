@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber kaynağından alınmış ve nüfusun belirli kesimlerinin ülkenin vergi gelirlerine ne kadar katkıda bulunduğunu anlatan somut bilgiler sunmaktadır. Bu tür detaylı, veri tabanına dayalı açıklamalar genellikle gerçek haber metnleri olarak sınıflandırılır.

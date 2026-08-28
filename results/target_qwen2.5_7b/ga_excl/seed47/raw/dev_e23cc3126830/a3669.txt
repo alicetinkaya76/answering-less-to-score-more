@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek olayı anlatıyor ve gerçek insanlar ve yerler

@@ -1,0 +1,3 @@
+EVT = Satirik
+
+Bu metin satirical (sarcastic) bir ton kullanarak gerçek bir ih

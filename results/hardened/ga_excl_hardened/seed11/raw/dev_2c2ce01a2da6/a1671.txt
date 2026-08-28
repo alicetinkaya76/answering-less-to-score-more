@@ -1,0 +1,3 @@
+Cevap: HAYIR
+
+Bu metin bir gerçek haber örneğidir çünkü veri tabanlarından (bu durumda Türkiye İhracatçılar Meclisi) alınıp, resmi istatistiklerle desteklenen bir artışın detayları anlatılmaktadır. Bu tür metinler genellikle ekonomi haberleri kategorisinde bulunurlar ve doğrudan sayısal verileri içerirler.

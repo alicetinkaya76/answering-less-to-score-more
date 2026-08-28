@@ -1,0 +1,3 @@
+Haber metni, gerçek bir haberın örneği gibi görünüyor ve zaytung stili yani şakalayan, satirik bir haber olmak için yeterli幽默和讽刺的检测需要对语言环境、背景知识以及表达方式有深入的理解。给定的新闻片段描述了iPhone 6在土耳其上市的情况，看起来像是一个真实的新闻报道，并没有明显的讽刺或幽默成分。因此，根据提供的信息：
+
+答案：HAYIR（不是讽刺）

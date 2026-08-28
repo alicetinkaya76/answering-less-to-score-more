@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber başlığı veya haber içeriği olarak görünmektedir ve sat

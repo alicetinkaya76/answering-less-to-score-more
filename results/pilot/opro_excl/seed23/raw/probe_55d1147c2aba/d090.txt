@@ -1,0 +1,1 @@
+Bu metnin tam ve bağlama bağlı analizi gerekmektedir ancak mevcut parçada abs

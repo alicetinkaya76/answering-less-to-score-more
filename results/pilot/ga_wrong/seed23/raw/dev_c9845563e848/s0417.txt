@@ -1,0 +1,1 @@
+Bu haber metni gerçek haber bir context içinde verilmiş gibi görünüyor, ancak içeriği çok belirsiz

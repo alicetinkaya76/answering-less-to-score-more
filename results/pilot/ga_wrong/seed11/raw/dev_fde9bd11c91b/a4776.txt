@@ -1,0 +1,1 @@
+Haber metninde verilen bilgiler basit bir haber özetini temsil ediyor ve satir

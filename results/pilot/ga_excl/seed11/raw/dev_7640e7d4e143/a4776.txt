@@ -1,0 +1,1 @@
+Haber metni verdiğiniz context'e dayanarak, bu bir gerçek haber gibi görünüyor. Bu nedenle

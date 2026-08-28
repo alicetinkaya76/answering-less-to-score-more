@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin, bir futbol ligi maçları programını sadece saat bilgisi ve takımlarıyla veren basit bir haber açıklamasıdır. Satirik veya Zaytung tarzında herhangi bir eleştirel veya komik öğe bulunmamaktadır.

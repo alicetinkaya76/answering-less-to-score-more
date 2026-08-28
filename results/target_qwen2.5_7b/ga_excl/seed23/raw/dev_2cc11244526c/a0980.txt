@@ -1,0 +1,3 @@
+EVET
+
+Bu metin satırsal bir şekilde yazılmış olabilir, ancak içeriğinin

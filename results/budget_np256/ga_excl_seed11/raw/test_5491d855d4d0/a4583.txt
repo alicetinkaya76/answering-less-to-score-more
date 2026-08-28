@@ -1,0 +1,1 @@
+Haber metninde herhangi bir sarkastik veya sahte görünüm bulunmamaktadır. Bu nedenle cevap HAYIR olmalıdır. Ancak, metnin tamamı verilmemiş olduğu için ve belirli sayısal verilerin doğruluğunu kontrol etmek zordur, genel ton sarkastik veya sahte gelmiyor.

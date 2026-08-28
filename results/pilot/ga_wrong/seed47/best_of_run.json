@@ -1,0 +1,33 @@
+{
+  "arm": "ga_wrong",
+  "seed": 47,
+  "fitness_name": "wrong",
+  "best_dev_fitness": 0.8513848967859943,
+  "best_sha": "51a8e34283bb",
+  "best_prompt": "Aşağıdaki metni incele. Bu metin zaytung tarzı satirik bir haber ise EVET, aksi takdirde HAYIR yaz. Yalnızca buna karşılık cevap ver.",
+  "dev": {
+    "sha": "51a8e34283bb",
+    "prompt": "Aşağıdaki metni incele. Bu metin zaytung tarzı satirik bir haber ise EVET, aksi takdirde HAYIR yaz. Yalnızca buna karşılık cevap ver.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.8513848967859943,
+    "f1_used_loose": 0.8513848967859943,
+    "f1_wrong_strict": 0.8513848967859943,
+    "f1_adj_strict": 0.8513848967859943
+  },
+  "test": {
+    "sha": "51a8e34283bb",
+    "prompt": "Aşağıdaki metni incele. Bu metin zaytung tarzı satirik bir haber ise EVET, aksi takdirde HAYIR yaz. Yalnızca buna karşılık cevap ver.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.8259658893143056,
+    "f1_used_loose": 0.8259658893143056,
+    "f1_wrong_strict": 0.8259658893143056,
+    "f1_adj_strict": 0.8259658893143056
+  },
+  "realized_unique_evals": 40
+}

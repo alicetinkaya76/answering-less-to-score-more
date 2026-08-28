@@ -1,0 +1,10 @@
+{
+  "M1": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz. Yalnızca EVET veya HAYIR yaz, başka hiçbir şey ekleme.",
+  "M2": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek).",
+  "M3": "Görev: Türkçe haber sınıflandırma. Etiketler: EVET = satirik/hicivli uydurma haber, HAYIR = gerçek haber. Sadece etiketi yaz.",
+  "M4": "Metindeki olayların gerçekten yaşanmış habercilik mi yoksa mizah amaçlı kurgulanmış hiciv mi olduğunu değerlendir. Anlatılanlar absürt, alaycı veya kasıtlı abartılıysa EVET; gerçek bir olayın aktarımıysa HAYIR yaz. Açıklama yazma, yalnızca EVET veya HAYIR.",
+  "M5": "Soru: Bu haber satirik mi? Cevabını yalnızca EVET veya HAYIR olarak ver.",
+  "M6": "Sana bir Türkçe haber metni vereceğim. Metin satir (Zaytung benzeri mizahi uydurma haber) içeriyorsa EVET, ciddi ve gerçek bir haberse HAYIR yaz. Cevabın ilk satırında sadece bu etiket bulunsun.",
+  "M7": "Aşağıdaki metni içerik açısından değerlendir: haber üslubu ciddi görünse bile anlatılan olay uydurma, imkânsız veya toplumsal eleştiri amaçlı bir parodi ise EVET; doğrulanabilir gerçek bir gelişmeyi aktarıyorsa HAYIR yaz. Tek kelimelik cevap ver.",
+  "M8": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR."
+}

@@ -1,0 +1,5 @@
+EVET
+
+Bu metin, Apple ürünlerine yapılan fiyat artışına ve bunun üzerine Dışişleri Bakanlığı'nın tepkisini anlatıyor gibi görünüyor. Ancak bu tür bir durumda Dışişleri Bakanlığı'nın doğrudan涉案文本提到了一个新闻片段，并要求判断该片段是讽刺/模仿新闻还是真实的新闻报道。给出的新闻片段描述了苹果产品价格上涨以及对此外长办公室作出反应的情景，这在现实中不太可能，因为通常这种经济行为不会引起外交部的直接回应。因此，根据这个分析，答案应该是“EVET”，表示这是一个讽刺或模仿性质的内容。
+
+完整的回答是：“EVET（该内容为讽刺/模仿新闻）。”

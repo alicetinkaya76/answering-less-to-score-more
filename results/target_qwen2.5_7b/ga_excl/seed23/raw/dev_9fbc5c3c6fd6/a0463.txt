@@ -1,0 +1,3 @@
+EVT
+
+Bu metin satırsal (uydurma/mizahi) bir dil kullanarak yazılm

@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin, bir dizi politik olayın doğrudan bir raporunu ver

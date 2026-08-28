@@ -1,0 +1,3 @@
+EVTN
+
+Açıklama: Metnin gerçeğe uygun haber olup olmadığına dair

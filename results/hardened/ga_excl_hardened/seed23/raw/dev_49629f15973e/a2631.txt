@@ -1,0 +1,1 @@
+HABER metnini dikkatlice analiz ettiğimde, verilen metnin zaytung stili satirik bir habere ait olmadığını düşünüyorum. Metin, genelde resmi ve doğaçal bir haber tarzını takip ediyor. Bu nedenle sonucu HAYIR olarak belirtirim.

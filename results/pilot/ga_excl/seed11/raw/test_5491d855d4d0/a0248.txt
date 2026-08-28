@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen haber metni, bir spor etkinliğinin düzenleneceği bilgilerini içer

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "M1_KISITSIZ",
+    "prompt": "Aşağıdaki haber metnini oku. Bu metin Zaytung tarzı satirik (uydurma/mizahi) bir haberse EVET, gerçek bir haber ajansı haberiyse HAYIR yaz.",
+    "cov": 0.26,
+    "cov_loose": 0.264,
+    "f1_used": 0.5741428259445294,
+    "f1_wrong": 0.307639886350531,
+    "orig_cov": 0.774,
+    "orig_f1_used": 0.7849,
+    "d_cov_pp": -51.4,
+    "d_f1_used": -0.21075717405547068
+  },
+  {
+    "name": "M2_KISITSIZ",
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. EVET (satirik) ya da HAYIR (gerçek).",
+    "cov": 0.71,
+    "cov_loose": 0.71,
+    "f1_used": 0.8736491296188442,
+    "f1_wrong": 0.7230188139823845,
+    "orig_cov": 1.0,
+    "orig_f1_used": 0.793,
+    "d_cov_pp": -29.000000000000004,
+    "d_f1_used": 0.08064912961884418
+  },
+  {
+    "name": "M5_KISITSIZ",
+    "prompt": "Soru: Bu haber satirik mi? Cevabını EVET veya HAYIR olarak ver.",
+    "cov": 0.99,
+    "cov_loose": 0.99,
+    "f1_used": 0.49563746438746437,
+    "f1_wrong": 0.4931661980631053,
+    "orig_cov": 1.0,
+    "orig_f1_used": 0.6145,
+    "d_cov_pp": -1.0000000000000009,
+    "d_f1_used": -0.11886253561253568
+  },
+  {
+    "name": "M8_KISITSIZ",
+    "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz.",
+    "cov": 0.734,
+    "cov_loose": 0.734,
+    "f1_used": 0.8697858817721831,
+    "f1_wrong": 0.7313143288247023,
+    "orig_cov": 1.0,
+    "orig_f1_used": 0.7412,
+    "d_cov_pp": -26.6,
+    "d_f1_used": 0.1285858817721831
+  }
+]

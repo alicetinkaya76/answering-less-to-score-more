@@ -1,0 +1,3 @@
+CEVAP: EVET = Satirik
+
+Bu haber metni, 65 yaş üstü vatandaşların

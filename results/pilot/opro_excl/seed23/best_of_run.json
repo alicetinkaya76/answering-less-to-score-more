@@ -1,0 +1,33 @@
+{
+  "arm": "opro_excl",
+  "seed": 23,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.906697383577423,
+  "best_sha": "55d1147c2aba",
+  "best_prompt": "Metni analiz ederek güncel olayları absürt, alaycı veya mizahi bir tarzda ele alan satirik haber mi yoksa gerçek haber mi olduğunu belirle. Satirik ton kullanılıyorsa EVET; aksi takdirde HAYIR yaz.",
+  "dev": {
+    "sha": "55d1147c2aba",
+    "prompt": "Metni analiz ederek güncel olayları absürt, alaycı veya mizahi bir tarzda ele alan satirik haber mi yoksa gerçek haber mi olduğunu belirle. Satirik ton kullanılıyorsa EVET; aksi takdirde HAYIR yaz.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 0.46285714285714286,
+    "coverage_loose": 0.46285714285714286,
+    "f1_used_strict": 0.906697383577423,
+    "f1_used_loose": 0.906697383577423,
+    "f1_wrong_strict": 0.5665124884366327,
+    "f1_adj_strict": 0.41967136039869296
+  },
+  "test": {
+    "sha": "55d1147c2aba",
+    "prompt": "Metni analiz ederek güncel olayları absürt, alaycı veya mizahi bir tarzda ele alan satirik haber mi yoksa gerçek haber mi olduğunu belirle. Satirik ton kullanılıyorsa EVET; aksi takdirde HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.436,
+    "coverage_loose": 0.436,
+    "f1_used_strict": 0.9145098039215687,
+    "f1_used_loose": 0.9145098039215687,
+    "f1_wrong_strict": 0.541820393910426,
+    "f1_adj_strict": 0.3987262745098039
+  },
+  "realized_unique_evals": 57
+}

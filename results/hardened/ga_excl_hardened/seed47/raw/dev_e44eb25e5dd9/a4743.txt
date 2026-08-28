@@ -1,0 +1,11 @@
+Cevap: EVET
+
+Bu metin bir haber veya duyuru niteliğindedir ve客观地翻译该回答的中文版本为：
+
+给定的文字是新闻报道还是讽刺？回答：YES或NO。
+
+新闻文本：“根据ÖSYM网站上的公告，2022年调解考试的评分工作已完成。考生可以在https://sonuc.osym.gov.tr地址查询考试结果…”
+
+答案：YES
+
+该文本是一则新闻公告，因此答案为“EVET”（土耳其语单词，意为“是”）。

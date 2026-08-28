@@ -1,0 +1,1 @@
+Verilen haber metni yeterince bilgi vermiyor da olsa, bu paragrafın satir

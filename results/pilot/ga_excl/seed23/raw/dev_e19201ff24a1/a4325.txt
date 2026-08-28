@@ -1,0 +1,1 @@
+Haber metni normal haber kaynaklarında beklenen formatta görünmekte ancak "Turcorn" if

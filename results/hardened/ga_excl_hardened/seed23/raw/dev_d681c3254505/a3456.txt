@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir gerçek haber gibi görünüyor ve verilen bilgileri (uçış iptallerini, hava koşullarını) doğrudan FlightAware'a atfederken, satirik bir üslup kullanmadığını düşünüyorum.

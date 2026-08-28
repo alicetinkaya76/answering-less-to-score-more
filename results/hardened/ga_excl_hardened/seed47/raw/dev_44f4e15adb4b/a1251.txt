@@ -1,0 +1,6 @@
+Hayır
+
+Bu metin bir haber olup satirik değil. Metnin içeriği Avrupa Birliği ve Türkiye Cumhuriyeti'nin finansmanı ile desteklenen bir program hakkında bilgi veriyor. Satirik habер的意思是询问给定的新闻文本是否为讽刺性新闻，并回答不是。中文翻译如下：
+
+新闻文本：“在欧洲联盟和土耳其共和国的支持下，由工业和技术部实施的竞争部门计划框架内进行的“从Denizli到技术纺织品转型”……”
+回答：不（这不是讽刺性的新闻）。

@@ -1,0 +1,22 @@
+HAYIR
+
+Bu metin bir zaytung tarzı satirik haber değil, gerçek bir haber gibi görünüyor. Ancak, belirtilen konunun detayları ve bağlama bağlı olarak daha kesin bir değerlendirme yapmak için tam metnin veya ek bilgilerin gerekebilir. Metinde bahsedilen isimler ve kurumlar gerçek kişiler ve kurumlardan ibarettir ve bu tür haberler genellikle resmi kanallar aracılığıyla منتHandlerContextSwitcher类中包含的方法`next()`用于在多路复用器上下文中切换到下一个任务。请根据这个描述，提供一个简化的伪代码示例来说明如何使用该方法，并解释其工作原理。
+
+```java
+public class MultiplexerContext {
+    private Task currentTask;
+    private List<Task> taskQueue;
+
+    public MultiplexerContext() {
+        this.currentTask = null;
+        this.taskQueue = new ArrayList<>();
+    }
+
+    // 添加任务到队列中
+    public void addTask(Task task) {
+        taskQueue.add(task);
+    }
+
+    // 切换到下一个任务
+    public Task next() {
+        if (taskQueue.isEmpty())

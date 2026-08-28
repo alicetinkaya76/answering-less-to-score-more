@@ -1,0 +1,3 @@
+Evet = Satirik
+
+Bu metin satirik bir dil kullanmaktadır ve gerçek olayı anlat

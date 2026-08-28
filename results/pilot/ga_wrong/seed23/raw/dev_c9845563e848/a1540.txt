@@ -1,0 +1,3 @@
+HAYIR = Gerçek
+
+Bu haber metni, bir politikacı veya yetkili kişinin sosyal medya

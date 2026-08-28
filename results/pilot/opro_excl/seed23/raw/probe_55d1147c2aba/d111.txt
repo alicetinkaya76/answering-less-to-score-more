@@ -1,0 +1,1 @@
+Verilen metnin parçası, bir gerçek haberin başlangıcını temsil etmektedir ve abs

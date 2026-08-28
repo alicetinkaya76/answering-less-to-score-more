@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin sadece bir futbol ligi maç programını vermektedir ve abs

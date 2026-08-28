@@ -1,0 +1,1 @@
+Haber metni verilen bağlama dayanarak, bu haber bir şaka gibi görünmüyor; ancak

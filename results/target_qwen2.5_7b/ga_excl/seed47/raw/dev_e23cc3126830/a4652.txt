@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu haber metninin tonu ve içeriği gerçek bir duyurudan

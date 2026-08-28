@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber başlığı veya bir haber alıntısı gibi görünüyor. Satir

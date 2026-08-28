@@ -1,0 +1,1 @@
+Haber metni verilen bağlama dayanarak doğrudan şaka, satir veya jest içermediğini

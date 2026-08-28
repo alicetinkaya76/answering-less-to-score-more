@@ -1,0 +1,1 @@
+Haber metni, resmi ve doğaldan bir haber tarzını takip ediyor. Bu nedenle, verilen metnin zaytung stili satirik olup olmadığı bağlamında değerlendirildiğinde, belirtilen kriterlere göre bu haberin satirik olmadığını gösteriyor. Cevap: HAYIR

@@ -1,0 +1,1 @@
+Haber metni verilen bağlama göre yeterince absürt veya alaycı bir ton kullanılmamaktadır. Bu nedenle, bu metnin satirik olduğunu belirtmek için "EVET" yazmak uygun olmayacaktır. Cevap: HAYIR

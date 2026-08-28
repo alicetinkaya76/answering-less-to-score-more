@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber metninin tonunu ve formunu takip ediyor. Gerçek bir

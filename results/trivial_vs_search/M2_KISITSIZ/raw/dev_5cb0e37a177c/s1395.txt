@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber kaynağı tarafından yayınlanan tipik bir hava durumu预告文本的主题是区分一则新闻是否为讽刺或真正的报道。给出的天气预报相关文本被判断为非讽刺（真实）的内容。接下来，根据指示，我只会提供“EVET”（如果是讽刺）或“HAYIR”（如果不是讽刺）的回答。因此，对于这条关于土耳其气象局发布天气警告的陈述，答案是“HAYIR”，因为它看起来像是常规的真实新闻报道。

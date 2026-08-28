@@ -1,0 +1,5 @@
+Metnin gerçeği temsil edip etmediğini belirlemek için tam metni görmek gereklidir ancak, verilen paragraf alaycı bir ton kullanıyor gibi görünüyor ve "beğeni almak için yapılanların" ifadesi gerçek haberlerde nadiren görülen bir tarz. Ancak kesin bir karar vermek için daha fazla içerik gerekli. Metnin devamında absürt veya alaycı unsurları varsa EVET, yoksa HAYIR olarak belirlemek mantıklı olacaktır.
+
+Verilen metnin parçasına bakarak ve tonuna dayanarak tahmin etmek gerekirse bu bir absürt veya alaycı satirik haber olabilir. Ancak kesin bir karar vermek için daha fazla bilgiye ihtiyaç var. Eğer metnin geri kalanı benzer bir tonu devam ettiriyorsa, cevap EVET olacaktır.
+
+Cevap: EVET (Metnin geri kalanına bakılmasından emin olun)

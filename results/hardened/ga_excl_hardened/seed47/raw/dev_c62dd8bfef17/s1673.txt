@@ -1,0 +1,7 @@
+HAYIR
+
+Bu metin bir gerçek haber gibi görünüyor. Satirik veya şakaca bir yazı değil, siyasi领导人没有完成指示，让我们来分析一下给出的新闻文本以判断其是否为讽刺性新闻。
+
+给定的新闻片段描述了土耳其伊斯坦布尔市市长Ekrem İmamoğlu与CHP（共和人民党）之间的政治互动，并提及了法律判决。这段文字看起来是在报道一个严肃的政治事件，没有明显的幽默或讽刺成分。因此，可以判断这是一篇真实的新闻报道而非讽刺性内容。
+
+答案是：HAYIR（不是讽刺性的）。

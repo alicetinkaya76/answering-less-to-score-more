@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber başlığı ve kısa özeti olarak görülebilir. Alaycı

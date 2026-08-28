@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek bir haber gibi görünüyor. İçeriğine göre Ulusal

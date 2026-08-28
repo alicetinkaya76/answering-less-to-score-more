@@ -1,0 +1,1 @@
+Haber metni verilen bu örnek bir zaytung tarzı satirik haber değildir. Gerçek bir balık ticaret haberi gibi görünmektedir. Bu nedenle yanıt HAYIR olmalıdır. Ancak, belirli bir bağlama bağlı olarak veya daha geniş bir içerik analizi gerektirebilir; ancak verilen metne dayanarak bu tür bir satirik haber olduğunu söyleyebileceğimiz belirgin işaretler bulunmamaktadır.

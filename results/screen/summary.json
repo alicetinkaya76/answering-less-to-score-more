@@ -1,0 +1,86 @@
+[
+  {
+    "model": "qwen2.5:3b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.3693367162015223,
+    "cov_stripped": 1.0,
+    "f1_stripped": 0.4693396226415094,
+    "f1wrong_stripped": 0.4693396226415094,
+    "d_cov_pp": 0.0,
+    "d_f1": 0.1000029064399871,
+    "hole": false
+  },
+  {
+    "model": "qwen2.5:7b",
+    "n": 300,
+    "cov_constrained": 0.9966666666666667,
+    "f1_constrained": 0.7788461538461539,
+    "cov_stripped": 1.0,
+    "f1_stripped": 0.779205138498595,
+    "f1wrong_stripped": 0.779205138498595,
+    "d_cov_pp": 0.33333333333332993,
+    "d_f1": 0.0003589846524411078,
+    "hole": false
+  },
+  {
+    "model": "qwen2.5:14b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.7999525311090767,
+    "cov_stripped": 0.72,
+    "f1_stripped": 0.8829319053916361,
+    "f1wrong_stripped": 0.7377597109304427,
+    "d_cov_pp": -28.000000000000004,
+    "d_f1": 0.08297937428255941,
+    "hole": true
+  },
+  {
+    "model": "qwen2.5:32b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.7139796843183182,
+    "cov_stripped": 1.0,
+    "f1_stripped": 0.7188905547226387,
+    "f1wrong_stripped": 0.7188905547226387,
+    "d_cov_pp": 0.0,
+    "d_f1": 0.004910870404320589,
+    "hole": false
+  },
+  {
+    "model": "llama3.1:8b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.6411960132890366,
+    "cov_stripped": 0.9633333333333334,
+    "f1_stripped": 0.45833333333333337,
+    "f1wrong_stripped": 0.45055906394379286,
+    "d_cov_pp": -3.6666666666666625,
+    "d_f1": -0.18286267995570327,
+    "hole": false
+  },
+  {
+    "model": "llama3.2:3b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.3333333333333333,
+    "cov_stripped": 1.0,
+    "f1_stripped": 0.3333333333333333,
+    "f1wrong_stripped": 0.3333333333333333,
+    "d_cov_pp": 0.0,
+    "d_f1": 0.0,
+    "hole": false
+  },
+  {
+    "model": "gemma3:4b",
+    "n": 300,
+    "cov_constrained": 1.0,
+    "f1_constrained": 0.5103438209105747,
+    "cov_stripped": 1.0,
+    "f1_stripped": 0.4100086305691931,
+    "f1wrong_stripped": 0.4100086305691931,
+    "d_cov_pp": 0.0,
+    "d_f1": -0.10033519034138161,
+    "hole": false
+  }
+]

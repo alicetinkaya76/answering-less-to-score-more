@@ -1,0 +1,5 @@
+EVAET
+
+Düzeltme: SADECE EVET ya da HAYIR olarak bildiriyorsunuz. Bu durumda:
+
+EVET

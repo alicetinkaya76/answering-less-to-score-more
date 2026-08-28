@@ -1,0 +1,3 @@
+EVET
+
+Bu metin satırsal ve hiciv dolu bir yorumlayıcı dilde yazılm

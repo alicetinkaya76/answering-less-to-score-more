@@ -1,0 +1,50 @@
+{
+  "ts": "2026-07-10T16:11:05",
+  "target_model": "qwen2.5:14b",
+  "optimizer_model": "qwen2.5:14b",
+  "target_digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+  "optimizer_digest": "7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6",
+  "same_model_condition": true,
+  "decoding": {
+    "temperature": 0.0,
+    "num_predict": 24,
+    "seed": 7
+  },
+  "optimizer_decoding": {
+    "temperature": 0.9,
+    "num_predict": 400
+  },
+  "data": {
+    "path": "data/satire_tr.tsv",
+    "id_col": "id",
+    "text_col": "text",
+    "label_col": "label",
+    "label_map": {
+      "SATIRIK": "EVET",
+      "GERCEK": "HAYIR"
+    },
+    "dev_index_file": null,
+    "test_index_file": null,
+    "dev_size": 175,
+    "test_size": 500,
+    "split_seed": 20260706
+  },
+  "ga": {
+    "pop": 10,
+    "gens": 5,
+    "tournament": 3,
+    "elites": 2,
+    "cx_prob": 0.9,
+    "mut_prob": 0.7,
+    "child_min_chars": 10,
+    "child_max_chars": 600,
+    "max_repair_retries": 2
+  },
+  "opro": {
+    "steps": 6,
+    "candidates_per_step": 8,
+    "exemplars": 3
+  },
+  "arm": "opro_excl",
+  "seed": 47
+}

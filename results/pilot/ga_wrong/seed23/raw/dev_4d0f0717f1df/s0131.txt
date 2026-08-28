@@ -1,0 +1,1 @@
+Haber metni verilen içerik bir haber raporunu ifade ediyor ve bu tür bir dizi o

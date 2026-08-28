@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir dizi teknik analiz ifadesini içeriyor ve BIST 

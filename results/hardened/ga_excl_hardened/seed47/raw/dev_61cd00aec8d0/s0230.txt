@@ -1,0 +1,3 @@
+EVET
+
+Bu metin, siyasi bir kişiyi aldatıcı bir şekilde描写给定文本是讽刺还是真实新闻报道。请直接给出判断“YES”（讽刺）或“NO”（不是讽刺）。不要解释，只需回答。

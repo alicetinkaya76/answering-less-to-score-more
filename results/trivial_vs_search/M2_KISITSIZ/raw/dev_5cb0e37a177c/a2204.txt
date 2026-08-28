@@ -1,0 +1,9 @@
+Bu metnin tam ve bağlama bağlı olarak satirik veya gerçek bir haber olabileceğini belirtmek gerekir. Ancak verilen kısa parçada, isimler ve yerler gerçek gibi görünse de, bu tür bir başlık genellikle diplomatik görüşmeleri özetleyen standart bir haber tarzını taklit eder. Eğer "Şentop" ve "Caferi" gibi isimler buradaki kişilerin gerçek adları değil, belirli bir siyasi durumun veya olayın parodisi ise, bu satirik olabilir.
+
+Ancak metnin tamamı verilmediği için kesin bir karar vermek zordur. Metindeki ifade tarzı ve bağlama bakılmazsa, bu tür bir haber genellikle gerçek haberler arasında yer alır. Eğer metnin geri kalanında şaka veya parodi işaretleri varsa, EVET (satirik) olarak değerlendirilebilir.
+
+Verilen bilgiye dayanarak ve belirgin bir satirik ifade bulunmaması durumunda:
+
+CEVAP: HAYIR (gerçek)
+
+Anc

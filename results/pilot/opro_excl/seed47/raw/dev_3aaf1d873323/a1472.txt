@@ -1,0 +1,3 @@
+EVET
+
+Bu haber metni, gerçek olayları aktarmak için kullanılmak üzere tasarlanan c

@@ -1,0 +1,1 @@
+Haber metnindeki bilgi verilen kontekst ve ifadeler, ciddi bir haber tarzını yansıtmaktadır. Metnin absürt veya alaycı olup olmadığı belirtilmemiş ve uydurma bir durum ya da olay sunmadığı için, bu metni EVET olarak değerlendirmek gerekmez. Bu nedenle cevap HAYIR olacaktır.

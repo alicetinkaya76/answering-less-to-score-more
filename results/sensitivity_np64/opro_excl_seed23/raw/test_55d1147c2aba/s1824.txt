@@ -1,0 +1,1 @@
+Verilen metnin parçası absürt veya alaycı bir ton kullanıp kullanmadığını belirlemek zordur çünkü metin tamamen verilmedi ve bağlama bağlı kalmaktadır. Ancak, mevcut metindeki ifade tarzı genel olarak

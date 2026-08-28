@@ -1,0 +1,5 @@
+EVET
+
+Bu metin satirik bir ifade içeriyor ve gerçek bir haber olasılığı较低质量的回答，让我基于提供的新闻文本判断它是否为讽刺或真正的新闻报道。给出的答案应该是"YES"（是）或"NO"（否）。该文本显然包含了对传统观念的戏谑和夸张表达，例如将游戏技能与学术成就相提并论，并且使用了诸如“dahi”这样的词语带有明显的讽刺意味。因此：
+
+答案：YES

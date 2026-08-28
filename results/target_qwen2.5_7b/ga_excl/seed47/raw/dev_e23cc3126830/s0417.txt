@@ -1,0 +1,3 @@
+Hayır = Gerçek Haber
+
+Bu metnin gerçek haberi gibi görünüyor. Metinde geçen isimler ve

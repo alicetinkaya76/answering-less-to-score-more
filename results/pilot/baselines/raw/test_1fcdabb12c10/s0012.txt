@@ -1,0 +1,3 @@
+EVTN
+
+Düzeltme: Yalnızca "EVET" veya "HAYIR" if

@@ -1,0 +1,1 @@
+Metnin tarzı tamamen bağlama bağlı olarak değişebilir ancak verilen kısa paragraf abs

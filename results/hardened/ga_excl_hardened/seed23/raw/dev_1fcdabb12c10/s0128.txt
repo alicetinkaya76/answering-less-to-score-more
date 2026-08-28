@@ -1,0 +1,5 @@
+EVTN
+
+Düzeltme: Cevabınız için "EVET" veya "HAYIR" olarak sadece belirtilen ifadelerden birini kullanmanız gerekmektedir. Bu bağlamda, verilen metnin tarzı ve içeriği göz önüne alındığında, cevap:
+
+EVET

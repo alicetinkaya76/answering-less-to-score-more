@@ -1,0 +1,3 @@
+Haber metninde herhangi bir sarkastik veya sahte görünüm tespit edilmedi. Bu nedenle cevap HAYIR olarak verilebilir.
+
+Ancak, bu metnin tamamen gerçek olup olmadığını doğrulamak için kapsamlı bir araştırma

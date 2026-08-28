@@ -1,0 +1,57 @@
+[
+  {
+    "name": "M2_HAM",
+    "num_predict": 256,
+    "cov": 1.0,
+    "cov_loose": 1.0,
+    "f1_used": 0.7930194805194806,
+    "f1_wrong": 0.7930194805194806,
+    "cov_np24": 1.0,
+    "f1_used_np24": 0.793,
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. Cevabın tek kelime olsun: EVET (satirik) ya da HAYIR (gerçek)."
+  },
+  {
+    "name": "M2_KISITSIZ",
+    "num_predict": 256,
+    "cov": 0.746,
+    "cov_loose": 0.99,
+    "f1_used": 0.8722165125042822,
+    "f1_wrong": 0.7434501728353426,
+    "cov_np24": 0.71,
+    "f1_used_np24": 0.8736,
+    "prompt": "Bir haber editörü gibi davran. Verilen metnin satirik/parodi haber mi yoksa gerçek habercilik mi olduğuna karar ver. EVET (satirik) ya da HAYIR (gerçek)."
+  },
+  {
+    "name": "M8_KISITSIZ",
+    "num_predict": 256,
+    "cov": 0.846,
+    "cov_loose": 0.996,
+    "f1_used": 0.8445638693675073,
+    "f1_wrong": 0.7708125326867303,
+    "cov_np24": 0.734,
+    "f1_used_np24": 0.8698,
+    "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz."
+  },
+  {
+    "name": "opro_excl_seed47",
+    "num_predict": 256,
+    "cov": 0.522,
+    "cov_loose": 0.99,
+    "f1_used": 0.8128507295173961,
+    "f1_wrong": 0.5531567514539977,
+    "cov_np24": 0.266,
+    "f1_used_np24": 0.9079,
+    "prompt": "Metni ciddi bir haber mi yoksa absürt, alaycı bir satirik/mizahi haber tarzında yazılıp yazılmadığını belirle. Eğer metin gerçek olayları uydurmaca yoluyla sunuyorsa EVET; aksi takdirde HAYIR yaz."
+  },
+  {
+    "name": "ga_excl_seed11",
+    "num_predict": 256,
+    "cov": 0.718,
+    "cov_loose": 0.99,
+    "f1_used": 0.8212049215796736,
+    "f1_wrong": 0.6810976620792571,
+    "cov_np24": 0.424,
+    "f1_used_np24": 0.9242,
+    "prompt": "Metni incelerken, haberin sarcastik veya sahte olup olmadığını belirleyin. Sarcastik ya da sahte bir haber görürseniz EVET, aksi takdirde HAYIR yazın."
+  }
+]

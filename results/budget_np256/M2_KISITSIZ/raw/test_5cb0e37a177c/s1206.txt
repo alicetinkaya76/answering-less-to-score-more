@@ -1,0 +1,3 @@
+Bu metnin tam ve bağlama bağlı olarak satirik veya gerçek haber olabilir, ancak verilen kısa parçada belirtilen ifadeler genel bir politika haberinde sıkça kullanılan standart ifadelere benziyor. Bu nedenle, bu metni EVET (satirik) olarak değerlendirmek için daha fazla bağlam veya belirli satirik unsurların olmasının beklenmesi gerekir.
+
+Bu kısa parçada herhangi bir açıkça satirik veya parodi unsuru bulunmadığından, bu metnin HAYIR (gerçek) olarak değerlendirilebilir. Ancak, daha fazla içerik ve bağlam verilirse, daha doğru bir değerlendirme yapılabilir.

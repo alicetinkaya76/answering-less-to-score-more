@@ -1,0 +1,5 @@
+EVET
+
+Bu metin, gerçek haberlerde nadir olarak görülen tuivizm (tuivizm: tuileştirilmiş ve abartılı bir şekilde yazılmış haberi ifade eder) ve komik durumlarla dolu. Özellikle "geceden kuyruğa giren vatandaşlar" ve "görüntü almaya çalışan gazetecilere…" gibi ifadeler, gerçek haberlerde bulunmaz. Bu tür abartılı描写给定新闻文本是讽刺/ parody新闻还是真正的新闻报道。回答仅用“YES”（讽刺）或“NO”（真实）。不要给出解释。
+
+答案：YES

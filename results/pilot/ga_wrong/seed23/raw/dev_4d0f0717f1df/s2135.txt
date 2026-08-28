@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber konusundan bahsediyor ve bu nedenle satir

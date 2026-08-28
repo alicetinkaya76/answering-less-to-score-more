@@ -1,0 +1,3 @@
+EVAHIT
+
+Düzeltme: Yalnızca "EVET" veya "HAYIR"

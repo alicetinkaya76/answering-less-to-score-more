@@ -1,0 +1,3 @@
+Haber metninin satirik bir zaytung haber olduğunu belirtmediği için bu context'e dayanarak EVET veya HAYIR cevabı vermek zordur. Metnin içeriğine bakılırsa, bu bir gerçek haber gibi görünüyor çünkü siyasi liderler ve partiler hakkında konuşulan bir konuyu ele alıyor. Ancak belirtilmemişse satirik bir içerik olduğu kesinleşmez.
+
+Cevap: HAYIR

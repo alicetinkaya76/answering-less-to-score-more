@@ -1,0 +1,3 @@
+HAYIR
+
+Metnin içeriği, bir operasyonun sonuçlarını haber olarak sunmaktadır ve absü

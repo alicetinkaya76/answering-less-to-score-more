@@ -1,0 +1,3 @@
+CEVAP: EVET = Satirik
+
+Bu haber metni, günlük hayatta muhtemel ol

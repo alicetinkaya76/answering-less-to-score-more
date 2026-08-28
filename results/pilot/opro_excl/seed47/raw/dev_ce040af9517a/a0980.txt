@@ -1,0 +1,1 @@
+Verilen metin parçası yeterli bir bağlama sahip değildir; bu nedenle absürt

@@ -1,0 +1,3 @@
+EVET
+
+Metnin içindeki ifadeler ve bağlama dayanılarak, bu metin absür

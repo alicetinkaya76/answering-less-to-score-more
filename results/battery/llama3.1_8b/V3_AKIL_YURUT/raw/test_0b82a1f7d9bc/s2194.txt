@@ -1,0 +1,5 @@
+Haber metninin satirik bir haber olduğu sonucuna varıyorum.
+
+İpuçları:
+
+- Metinde

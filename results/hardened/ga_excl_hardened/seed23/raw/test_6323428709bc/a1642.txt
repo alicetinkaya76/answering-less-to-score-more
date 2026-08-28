@@ -1,0 +1,7 @@
+HAYIR
+
+Belirtilen metin bir satirik haber tarzını içermemekte ve genel olarak gerçek haberlerde见到上述指令后，您提供的响应表明您认为给定的新闻文本不是讽刺风格。根据您的说明，请我仅用“EVET”或“HAYIR”来回答是否为讽刺性新闻。因此，正确的回应格式应该是：
+
+Cevap: HAYIR
+
+这样更符合原始要求，直接且明确地表示该新闻不是以《zeitung》式的讽刺风格撰写的。

@@ -1,0 +1,1 @@
+Haber metni verilen bağlama göre yorumlayıcı tonla yazılmış gibi görünüyor, ancak

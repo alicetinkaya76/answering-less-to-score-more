@@ -1,0 +1,8 @@
+Cevap: EVET
+
+Bu metin bir haber olup satirik değil. Metnin içeriği, belirli bir olayı (Tavşanlı Viyadüğü çökmesi) ve bu olayın ilgili kişiler veya şirketleri anlatıyor. Bu tür detaylar ve isimler genellikle gerçek haberlerde bulunurken, satirik içerikler genellikle daha abartılı ve net bir笑话，实际上这段文本是在询问如何判断给定的新闻文本是真实的新闻还是讽刺的内容。提供的新闻文本显然是关于一个真实事件的报道，因此答案是“EVET”，表示这是真正的新闻。
+
+完整的回答如下：
+
+Haber metni: "Cengiz-Kolin-Limak Ortak Girişim Grubu tarafından sürdürülen Kuzey Marmara Otoyolu Projesi kapsamında, yapımı devam eden Tavşanlı Viyadüğünde bu sabah meydana gelen çökme sonucu göçük altında kalan 3…"
+Cevap: EVET

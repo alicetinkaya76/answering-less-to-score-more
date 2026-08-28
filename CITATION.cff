@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite both the artifact and the paper it accompanies."
+title: "Answering Less to Score More — code and data artifact"
+abstract: >-
+  Complete replication archive for a measurement-validity audit of abstain-exclude
+  fitness in prompt optimization: the experiment pipeline as run, the full run archive
+  (146,550 raw model outputs, per-item strict and lenient predictions, generation logs,
+  per-run configuration snapshots with model digests for the optimization runs), a separate
+  105-check verifier that re-derives the main tables and selected textual statistics, separate
+  reconstruction inputs for the escape-vector battery and the model screen, and the figure
+  generation code. Component-specific licensing and the third-party-text exception are
+  documented in DATA.md.
+type: dataset
+authors:
+  - family-names: "Çetinkaya"
+    given-names: "Ali"
+    email: "ali.cetinkaya@selcuk.edu.tr"
+    orcid: "https://orcid.org/0000-0002-7747-6854"
+    affiliation: "Department of Computer Engineering, Faculty of Technology, Selçuk University, Konya, Türkiye"
+# No root `license:` field: this is a mixed code-and-data deposit. Code is MIT, the author's
+# derived data is CC BY 4.0, and no rights are claimed in third-party text incidentally
+# reproduced in raw model outputs. CFF 1.2 reads a list of licenses as OR, not as
+# component-specific terms, so per-component licensing is documented in DATA.md instead.
+keywords:
+  - prompt optimization
+  - evaluation validity
+  - macro-F1
+  - abstention
+  - specification gaming
+  - selective prediction
+  - Turkish NLP
+# TODO(author) — fill in when the Zenodo deposit is published, then uncomment these four keys
+# and put the same DOI into manuscript/paper_v11.md and paper/body.tex. Nothing below is an
+# active field; these are templates, and the placeholder strings must not survive publication.
+# doi: 10.5281/zenodo.XXXXXXX
+# repository-code: "https://github.com/<user>/<repo>"
+# version: "1.0.0"
+# date-released: "2026-XX-XX"
+preferred-citation:
+  type: article
+  title: "Answering Less to Score More: A Measurement-Validity Audit of Abstain-Exclude Fitness in Prompt Optimization"
+  authors:
+    - family-names: "Çetinkaya"
+      given-names: "Ali"
+      orcid: "https://orcid.org/0000-0002-7747-6854"
+  journal: "Computational Linguistics"
+  year: 2026
+  notes: "Under review at the time of deposit."
+references:
+  - type: conference-paper
+    title: "Make Satire Boring Again: Reducing Stylistic Bias of Satirical Corpus by Utilizing Generative LLMs"
+    authors:
+      - family-names: "Öztürk"
+        given-names: "Aslı Umay"
+      - family-names: "Çekinel"
+        given-names: "Recep Fırat"
+      - family-names: "Karagöz"
+        given-names: "Pınar"
+    collection-title: "Proceedings of the 18th Workshop on Building and Using Comparable Corpora (BUCC)"
+    start: 19
+    end: 35
+    year: 2025
+    notes: "Source of the SatireTR corpus this study derives its task data from; MIT-licensed."

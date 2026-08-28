@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir gerçek haber gibi görünüyor. Satire veya şaka içermemektedir ve siyasi olayları doğrudan bildiren formatta yazılmıştır. Rusya-Ukrayna çatışmasının bu tür gelişimleri genellikle ciddi haber kaynaklarından منتHandlerContextErrorException: Context has been destroyed and cannot be used anymore.

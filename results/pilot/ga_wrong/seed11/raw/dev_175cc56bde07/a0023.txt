@@ -1,0 +1,1 @@
+Haber metni gerçek bir haber örneği olarak görünüyor. Bu nedenle cevap HAYIR

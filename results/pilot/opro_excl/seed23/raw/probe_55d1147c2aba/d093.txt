@@ -1,0 +1,1 @@
+Verilen metnin satirik bir ton kullanıp kullanmadığını belirlemek için, metnin bağ

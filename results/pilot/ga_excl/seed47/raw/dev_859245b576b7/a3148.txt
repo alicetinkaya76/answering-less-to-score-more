@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin, bir futbol liginin maçı programını sadece saat bilgisi

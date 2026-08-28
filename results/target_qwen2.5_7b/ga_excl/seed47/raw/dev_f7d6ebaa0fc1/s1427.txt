@@ -1,0 +1,3 @@
+EVTAR = Satirik
+
+Bu metin satirical (satirik) bir dil kullanarak yazılm

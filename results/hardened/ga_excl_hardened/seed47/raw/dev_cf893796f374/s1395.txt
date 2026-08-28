@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metnin bir haber metni olduğunu belirleyebiliriz çünkü bu metin, bir olayın veya durumun (bu durumda hava durumu) bilgilendirmesi olarak nitelendirilebilir. Bu tür metinler genellikle resmi kurumlardan (bu örnekte Meteoloji Genel Müdürlüğü) ve doğrudan olaylara dair bilgi vermek için yazılmıştır. Satirik bir metnin karakteristik özelliklerinden biri ise gerçeklikten uzaklaşması, abartılı ifadeler kullanması veya komik bir hava yaratmasının olmasıdır. Bu metin hiçbir satirik unsuru içermemektedir.

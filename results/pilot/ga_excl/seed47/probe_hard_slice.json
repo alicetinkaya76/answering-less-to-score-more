@@ -1,0 +1,30 @@
+{
+  "arm": "ga_excl",
+  "seed": 47,
+  "best_sha": "49276d025eda",
+  "test": {
+    "sha": "49276d025eda",
+    "prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.4,
+    "coverage_loose": 0.4,
+    "f1_used_strict": 0.8373218031593819,
+    "f1_used_loose": 0.8373218031593819,
+    "f1_wrong_strict": 0.45976893628657367,
+    "f1_adj_strict": 0.3349287212637528
+  },
+  "probe": {
+    "sha": "49276d025eda",
+    "prompt": "Haber metnini analiz et ve satirik mi yoksa gerçek mi olduğunu belirle. Satirik ise EVET, gerçekte bulunuyorsa HAYIR yaz.",
+    "split": "probe",
+    "n": 200,
+    "coverage_strict": 0.205,
+    "coverage_loose": 0.205,
+    "f1_used_strict": 0.21153846153846154,
+    "f1_used_loose": 0.21153846153846154,
+    "f1_wrong_strict": 0.052132701421800945,
+    "f1_adj_strict": 0.04336538461538461
+  },
+  "gap_pp": 19.500000000000004
+}

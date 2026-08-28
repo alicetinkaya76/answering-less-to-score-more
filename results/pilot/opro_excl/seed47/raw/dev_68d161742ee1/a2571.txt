@@ -1,0 +1,1 @@
+Haber metninin verilen bağlama dayanarak analiz edildiğinde, absürt,

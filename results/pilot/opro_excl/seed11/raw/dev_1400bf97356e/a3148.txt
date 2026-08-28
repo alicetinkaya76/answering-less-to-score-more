@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin, bir futbol ligi maçları programını veren standart bir haber gibi

@@ -1,0 +1,35 @@
+{
+  "arm": "ga_excl",
+  "seed": 11,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.8514237199582027,
+  "best_sha": "bf4a1731c5ce",
+  "best_prompt": "Türkçe metnini inceleyip Zaytung stili şakalama haber mi yoksa asıl haber mi olduğuna karar ver. Şakalaıyorsa EVET, gerçeği anlatıyorsa HAYIR yaz.",
+  "dev": {
+    "sha": "bf4a1731c5ce",
+    "prompt": "Türkçe metnini inceleyip Zaytung stili şakalama haber mi yoksa asıl haber mi olduğuna karar ver. Şakalaıyorsa EVET, gerçeği anlatıyorsa HAYIR yaz.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 0.9371428571428572,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.8963376092210449,
+    "f1_used_loose": 0.8514237199582027,
+    "f1_wrong_strict": 0.8675047008844627,
+    "f1_wrong_loose": 0.8514237199582027,
+    "f1_adj_strict": 0.8399963880700078
+  },
+  "test": {
+    "sha": "bf4a1731c5ce",
+    "prompt": "Türkçe metnini inceleyip Zaytung stili şakalama haber mi yoksa asıl haber mi olduğuna karar ver. Şakalaıyorsa EVET, gerçeği anlatıyorsa HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.92,
+    "coverage_loose": 0.998,
+    "f1_used_strict": 0.8432382286677143,
+    "f1_used_loose": 0.8212297474086746,
+    "f1_wrong_strict": 0.8080634225212538,
+    "f1_wrong_loose": 0.82037614280894,
+    "f1_adj_strict": 0.7757791703742971
+  },
+  "realized_unique_evals": 38
+}

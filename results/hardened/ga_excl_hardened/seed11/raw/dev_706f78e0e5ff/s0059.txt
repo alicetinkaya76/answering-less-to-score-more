@@ -1,0 +1,8 @@
+Haber metninde.Include("yanık") && Haber_metni.Include("çalıntı"):
+    Cevap = "Evet";
+else:
+    Cevap = "Hayır";
+
+Verilen metnin tonu ve içeriği göz önüne alındığında, oyalı bir olayla ilgili ve bazı abartılı ifadeler içerdiği için bu haberin zaytung tarzı mizahi bir haber olma potansiyeli vardır. Ancak kesin bir karar vermek için daha fazla bağlam veya metnin tamamını incelemek gerekir. Verilen bilgilere dayanarak ve belirtilen kurallara uygun olarak:
+
+Cevap: EVET

@@ -1,0 +1,3 @@
+EVTAR = Satırık
+
+Bu metin satirical (sarcastic) bir dil kullanarak gerçek o

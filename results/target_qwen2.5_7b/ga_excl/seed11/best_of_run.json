@@ -1,0 +1,35 @@
+{
+  "arm": "ga_excl",
+  "seed": 11,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.7997646212690837,
+  "best_sha": "31f9cfc33280",
+  "best_prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+  "dev": {
+    "sha": "31f9cfc33280",
+    "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.7997646212690837,
+    "f1_used_loose": 0.7997646212690837,
+    "f1_wrong_strict": 0.7997646212690837,
+    "f1_wrong_loose": 0.7997646212690837,
+    "f1_adj_strict": 0.7997646212690837
+  },
+  "test": {
+    "sha": "31f9cfc33280",
+    "prompt": "Metnin türüne karar ver. Hiciv, ironi veya kurgu yoluyla güncel olaylarla dalga geçen satirik bir haberse EVET; sahici bir haber ajansının olay aktarımıysa HAYIR yaz. Yalnızca EVET/HAYIR.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.7935924624823947,
+    "f1_used_loose": 0.7935924624823947,
+    "f1_wrong_strict": 0.7935924624823947,
+    "f1_wrong_loose": 0.7935924624823947,
+    "f1_adj_strict": 0.7935924624823947
+  },
+  "realized_unique_evals": 38
+}

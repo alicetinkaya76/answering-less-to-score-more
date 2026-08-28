@@ -1,0 +1,35 @@
+{
+  "arm": "ga_excl",
+  "seed": 23,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.805199057097957,
+  "best_sha": "4aa136e11e99",
+  "best_prompt": "Metnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları проверьте текст на использование только土耳其语和相关的HTML标签，这里仅提供翻译回符合要求的纯土耳其语文本：\n\n<TALİMAT>\nMetnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları yansıtan bir haber ise HAYIR yaz.",
+  "dev": {
+    "sha": "4aa136e11e99",
+    "prompt": "Metnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları проверьте текст на использование только土耳其语和相关的HTML标签，这里仅提供翻译回符合要求的纯土耳其语文本：\n\n<TALİMAT>\nMetnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları yansıtan bir haber ise HAYIR yaz.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 1.0,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.805199057097957,
+    "f1_used_loose": 0.805199057097957,
+    "f1_wrong_strict": 0.805199057097957,
+    "f1_wrong_loose": 0.805199057097957,
+    "f1_adj_strict": 0.805199057097957
+  },
+  "test": {
+    "sha": "4aa136e11e99",
+    "prompt": "Metnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları проверьте текст на использование только土耳其语和相关的HTML标签，这里仅提供翻译回符合要求的纯土耳其语文本：\n\n<TALİMAT>\nMetnin satirik bir haber olup olmadığını belirle. Satirik, mizahi veya kurgusal bir haber ise EVET; gerçek ve doğrulukları yansıtan bir haber ise HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.998,
+    "coverage_loose": 1.0,
+    "f1_used_strict": 0.7605382757271844,
+    "f1_used_loose": 0.7609587362551273,
+    "f1_wrong_strict": 0.7598090515367648,
+    "f1_wrong_loose": 0.7609587362551273,
+    "f1_adj_strict": 0.75901719917573
+  },
+  "realized_unique_evals": 39
+}

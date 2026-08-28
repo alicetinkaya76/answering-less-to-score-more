@@ -1,0 +1,1 @@
+Haber metni verilen bağlama ve kısa açıklamaya dayanılarak doğrudan bir satir

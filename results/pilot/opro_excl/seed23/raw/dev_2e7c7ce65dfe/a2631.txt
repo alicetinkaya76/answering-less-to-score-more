@@ -1,0 +1,1 @@
+Haber metni EVET özelliklerini içermiyorsa HAYIR olarak değerlendirilecek. Bu dur

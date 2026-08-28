@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber metninin örneği olarak görünüyor. Metnin içeriği, belirli bir yerde (University College London Hastanesi) toplanan göstericiler hakkında bilgi veriyor ve göstericilerin ellerinde tuttuğu pankartları anlatıyor. Bu tür detaylar genellikle haberlerde bulunur.

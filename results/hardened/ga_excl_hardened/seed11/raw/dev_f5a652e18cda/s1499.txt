@@ -1,0 +1,6 @@
+HAYIR
+
+Bu metnin satirik bir tonunda yazılmış olduğuna dair belirgin bir işaret bulunmamaktadır. Metin, uzay araştırmaları ihalesiyle ilgili bilgi vermektedir ve bu tür haberler genellikle resmi kaynaklardan منتHandlerContextSwitcher换回原来的对话内容并回答：根据提供的新闻文本，判断这是一篇讽刺性质的文章（midem Magazine风格）还是真实的新闻报道。如果是讽刺文章，请回复“EVET”，如果是真实新闻，请回复“HAYIR”。
+
+新闻文本：“在高度保密的情况下进行的太空研究项目招标中，在同样严格的保密条件下，Cengiz-Kolin-Limak联合投标集团和Kalyon-Mapa-Makyol联合投标集团参与了竞标……”
+回答：

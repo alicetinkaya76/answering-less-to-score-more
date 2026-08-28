@@ -1,0 +1,5 @@
+Hayır = Gerçek Haber
+
+Bu metin gerçek haber gibi görünüyor çünkü:
+
+1. Belirli bir t

@@ -1,0 +1,33 @@
+{
+  "arm": "opro_excl",
+  "seed": 47,
+  "fitness_name": "excl",
+  "best_dev_fitness": 0.9370713997579669,
+  "best_sha": "075735b688b6",
+  "best_prompt": "Metni ciddi bir haber mi yoksa absürt, alaycı bir satirik/mizahi haber tarzında yazılıp yazılmadığını belirle. Eğer metin gerçek olayları uydurmaca yoluyla sunuyorsa EVET; aksi takdirde HAYIR yaz.",
+  "dev": {
+    "sha": "075735b688b6",
+    "prompt": "Metni ciddi bir haber mi yoksa absürt, alaycı bir satirik/mizahi haber tarzında yazılıp yazılmadığını belirle. Eğer metin gerçek olayları uydurmaca yoluyla sunuyorsa EVET; aksi takdirde HAYIR yaz.",
+    "split": "dev",
+    "n": 175,
+    "coverage_strict": 0.29714285714285715,
+    "coverage_loose": 0.29714285714285715,
+    "f1_used_strict": 0.9370713997579669,
+    "f1_used_loose": 0.9370713997579669,
+    "f1_wrong_strict": 0.4255451713395638,
+    "f1_adj_strict": 0.27844407307093877
+  },
+  "test": {
+    "sha": "075735b688b6",
+    "prompt": "Metni ciddi bir haber mi yoksa absürt, alaycı bir satirik/mizahi haber tarzında yazılıp yazılmadığını belirle. Eğer metin gerçek olayları uydurmaca yoluyla sunuyorsa EVET; aksi takdirde HAYIR yaz.",
+    "split": "test",
+    "n": 500,
+    "coverage_strict": 0.266,
+    "coverage_loose": 0.266,
+    "f1_used_strict": 0.9078947368421053,
+    "f1_used_loose": 0.9078947368421053,
+    "f1_wrong_strict": 0.37407683925905,
+    "f1_adj_strict": 0.24150000000000002
+  },
+  "realized_unique_evals": 57
+}

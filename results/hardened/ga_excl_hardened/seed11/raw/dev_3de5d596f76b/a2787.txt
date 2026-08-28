@@ -1,0 +1,11 @@
+Bu haber metni, gerçek bir olayı anlatmaya çalışan bir haberin tonunu kullanıyor ancak çok dramatik ve süslü bir dille ifade ediliyor. Ancak satirik veya şaka tarzında olduğunu kesin olarak belirtmek zordur çünkü verilen kısa parçada yeterli bilgi yok. Ancak, bu tür süslü ve detaylı bir anlatım genellikle gerçek haberlerde az bulunur.
+
+Ancak, metnin içeriği doğrultusunda ve dil kullanımı göz önüne alındığında, bu bir satirik haber olabilir. Eğer bu metin bir komik haber sitesi veya belirli bir satirik tarzda yazılmışsa, o zaman:
+
+EVET
+
+Eğer bu metni gerçek bir haber kaynağından aldığımızı varsayarsak ve bu kadar süslü bir dil kullanımı normalse, o zaman:
+
+HAYIR
+
+Ancak verilen bilgilere dayanarak en doğru cevabı belirlemek zordur. Bu durumda daha fazla bağlam veya metnin tamamını incelememiz gerekebilir.

@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber olup olmadığını sorusuna cevap olarak "HAYIR"

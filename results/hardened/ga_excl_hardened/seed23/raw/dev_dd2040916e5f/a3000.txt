@@ -1,0 +1,3 @@
+Haber metniniz bir haber özetini temsil etmektedir ve bu tarz bir içerik şaka değildir. Bu nedenle cevap:
+
+HAYIR

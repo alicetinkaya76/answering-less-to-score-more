@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber başlığı veya kısa özet gibi görünüyor ve güncel olayları

@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber editörü tarafından yazılan standart bir borsa haberi gibidir. Satirik veya parodi unsurları bulunmamaktadır. Haber, BIST 100 endeksinin belirli bir saatteki değerlerini ve değişim oranını detaylı bir şekilde vermektedir. Bu tür bilgiler genellikle borsa takipçileri için önemlidir ve doğrudan, nütral bir tarzda sunulur.

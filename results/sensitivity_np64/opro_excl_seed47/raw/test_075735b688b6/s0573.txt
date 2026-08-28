@@ -1,0 +1,1 @@
+Verilen metnin tamamtı verilmemiş olsa da, mevcut kısmı analiz etmek gerekirse, metin ciddi bir haber tarzında yazılmış gibi görünüyor. Metinde "patlamalar", "konsoloslukların uyarıları" ve "ter

@@ -1,0 +1,3 @@
+Cevap: EVET
+
+Bu metin bir haber stili yazıdır çünkü spesifik tarih, saat ve yer bilgileri verilmiş ve bir futbol maçı hakkında bilgi vermektedir. Ayrıca, hakem ismi ve yardımcı hakem bilgisi de verilmiştir. Bu tür detaylar genellikle habercilikten veya resmi açıklamalardan gelir.

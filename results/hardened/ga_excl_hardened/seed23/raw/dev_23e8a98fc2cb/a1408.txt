@@ -1,0 +1,8 @@
+HAYIR
+
+Bu metin bir ekonomik haber olup, satirik veya Zaytung tarzı bir yazı değildir. Metnin ciddi ve nütral üslubu, BIST 100 endeksinin değer kazandığı bilgilerini客观地分析给定的新闻文本，该文本描述了股市指数的变化情况，内容严肃且没有讽刺或幽默成分。因此，答案是否定的。
+
+翻译如下：
+
+这条新闻文本描述了BIST 100指数（土耳其证券交易所的主要股票价格指数）的变化情况，包括具体的数值和百分比变化，并未包含任何讽刺、荒诞或者幽默的内容。因此，该新闻不是以Zaytung风格的讽刺方式撰写的。
+答案：HAYIR

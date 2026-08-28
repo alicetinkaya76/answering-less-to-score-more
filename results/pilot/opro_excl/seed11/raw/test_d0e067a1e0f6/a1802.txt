@@ -1,0 +1,1 @@
+Haber metni verilen bilgiye dayalı olarak sadece bir haber özetini içeriyor ve

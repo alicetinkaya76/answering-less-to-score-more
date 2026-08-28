@@ -1,0 +1,1 @@
+Haber metni verilen bağlama ve ifadeye bakarak, bu tür çelişkili ve

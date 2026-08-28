@@ -1,0 +1,3 @@
+Cevap: HAYIR
+
+Bu haber metni, ABD'deki hava trafiğiyle ilgili gerçek bir durumu anlatmaktadır ve satirik değildir. Haber, FlghtAware verilerine dayanarak hava koşulları nedeniyle gerçekleşemeyen uçuş sayılarını bildirmektedir.

@@ -1,0 +1,1 @@
+Verilen metnin parçası yeterli bir bağlama sahip değil, bu yüzden absürt veya iron

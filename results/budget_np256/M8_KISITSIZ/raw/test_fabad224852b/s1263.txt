@@ -1,0 +1,3 @@
+EVET
+
+Bu metin, gerçek haberlerin genel tonunu ve formunu taklit etmekte ancak belirli detaylar (örneğin, "$" işareti yerine "ceplerindeki ABD Doları'nın eksilmek bir…" ifadesinin eklenmesi) ile tuvalevi bir jest yapmaktadır. Bu tür bir ton ve bu tür küçük tuvalet oyunları genellikle satirik haberlerde veya hicivli yorumlarda kullanılır.

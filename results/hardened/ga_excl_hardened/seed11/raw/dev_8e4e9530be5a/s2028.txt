@@ -1,0 +1,3 @@
+Haber metninin verilen formda doğru bir haber kaydı olarak kabul edilemez ve bu genellikle satirik veya şaka niteliğindedir. Bu nedenle cevap:
+
+SATIRIK: EVET

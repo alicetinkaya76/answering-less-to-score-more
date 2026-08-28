@@ -1,0 +1,3 @@
+HAYIR
+
+Bu metin bir haber olmak üzere yazılmış normal bir haber madalı gelgitler

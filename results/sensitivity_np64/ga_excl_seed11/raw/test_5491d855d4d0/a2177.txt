@@ -1,0 +1,1 @@
+Haber metninizde verilen bilgi temel olarak gerçek haber bir kaynağının ilk birkaç cümlesini andırmaktadır. Ancak, haberin tam metni verilmediği için ve belirtilen parçanın tamamen yeterli olmaması neden

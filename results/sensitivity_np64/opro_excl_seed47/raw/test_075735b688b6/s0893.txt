@@ -1,0 +1,1 @@
+Haber metni ciddi bir konuyu ele alıyor ve bu nedenle EVET olarak belirtilmesi gerekir. Ancak verilen kısa paragraf tam bir haber metninin tamamını içermediği için kesin bir karar verebilmek zordur

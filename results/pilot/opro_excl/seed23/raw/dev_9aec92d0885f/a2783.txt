@@ -1,0 +1,3 @@
+HAYIR
+
+Verilen metin bir haber ajansı tarafından sunulan standart bir haber özetidir

@@ -1,0 +1,7 @@
+HAYIR
+
+Bu metnin Zaytung tarzı satirik bir haber olduğu belirtilmemiş. Metnin içeriği, sisli ve puslu hava koşullarının İstanbul'da hafta sonuna kadar devam edeceği gerçeğe dayalı bir haber gibi görünüyor. Bu tür hava durumu bilgileri genellikle resmi hava durumu预告文本的主题是关于判断一则新闻是否为讽刺类新闻。给出的新闻内容描述了土耳其伊斯坦布尔地区未来几天将会有持续的大雾天气，请求对此进行真实性判断。根据提供的信息：
+
+该新闻报道的内容符合常规气象预报的特点，并未表现出明显的讽刺或幽默元素。
+
+因此，答案是“HAYIR”（意为“不是”，即这不是一个讽刺性的新闻）。

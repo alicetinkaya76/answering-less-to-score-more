@@ -1,0 +1,1 @@
+Haber metni verilen bağlama göre satirik bir haber olarak kabul edilebilir nitelik

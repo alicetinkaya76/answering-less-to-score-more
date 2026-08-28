@@ -1,0 +1,3 @@
+EVTN
+
+Düzeltme: Cevabınız için "EVET" veya "HAYIR" olarak sadece belirtilen ifadelerden birini kullanmanız gerekmektedir. Verdiğiniz cevapta küçük ve büyük harflerin kullanımından dolayı düzeltme yapmam gerekir. Doğru cevabınız: EVET

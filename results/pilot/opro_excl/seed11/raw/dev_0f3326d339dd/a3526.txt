@@ -1,0 +1,1 @@
+Haber metni verilen bilgileri dikkate alarak, bu bir gerçek haber gibi görünüyor.

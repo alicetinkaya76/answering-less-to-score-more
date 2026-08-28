@@ -1,0 +1,5 @@
+HAYIR
+
+Verilen metin bir gerçek haber gibi görünüyor. BIST 100 endeksinin belirli bir saatteki değeri ve değişim oranını detaylı olarak veriyor. Bu tür bilgiler doğrudan bir finansal交易平台的助手在回答问题时突然用中文回复了，这看起来不太自然。根据之前的指示，如果提供的新闻文本是讽刺性的，则应回答“EVET”，如果是真实的，则回答“HAYIR”。给定的新闻文本描述了BIST 100指数的具体数值和变化情况，显然是真实的信息报道。因此，正确的答案应该是“HAYIR”。让我们用土耳其语给出明确的答案：
+
+Cevap: HAYIR

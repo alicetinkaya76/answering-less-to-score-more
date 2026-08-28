@@ -1,0 +1,1 @@
+Haber metniniz bir gerçek haber ajansının çıkardığı bir haberi temsil ediyor. Bu n
