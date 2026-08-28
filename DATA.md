@@ -77,6 +77,6 @@ was removed and when remains auditable even though the file itself is gone.
 
 | component | terms |
 |---|---|
-| `code/`, `analysis/`, `figures-src/` | MIT — see `LICENSE` |
+| `code/`, `analysis/`, `figures-src/`, `verify_manifest.py` | MIT — see `LICENSE`, whose header states this scope |
 | `results/`, `data/` manifests and indices, `figures/` | CC BY 4.0 for the author's derived data and figures — except that no rights are claimed in any third-party text incidentally reproduced inside raw model outputs, which remains subject to its original holders' rights and to the access-and-takedown procedure above |
 | the underlying Zaytung / Anadolu Ajansı article texts | not redistributed and no rights claimed; the upstream compilation's MIT license covers that repository's contents, not the journalism they derive from |

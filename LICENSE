@@ -1,3 +1,21 @@
+SCOPE OF THIS FILE
+==================
+The MIT License below covers the SOFTWARE in this deposit: code/, analysis/,
+figures-src/, and verify_manifest.py.
+
+It does NOT cover everything here. The author's derived experimental data
+(results/, the data/ manifests and indices, figures/) is released under
+CC BY 4.0, and no rights whatever are claimed in third-party news text that a
+raw model output may incidentally reproduce -- that text remains subject to its
+original rights holders and to the takedown procedure in DATA.md.
+
+DATA.md is authoritative for component-by-component terms and for the full
+provenance chain. Hosting platforms that detect a single licence from this file
+will label the whole repository "MIT"; that label is too broad, and this note is
+here because the label cannot be corrected from inside the file it reads.
+
+--------------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Ali Çetinkaya
