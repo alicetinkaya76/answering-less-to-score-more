@@ -11,7 +11,7 @@
 #     len(content).to_bytes(8,'big')   + content
 # for each file in turn. The length prefixes are part of the definition.
 
-13b7fcc8e451ed4b7debb08d0e224e13867b62192fe9c04790765d837b83665c  CITATION.cff
+d9bb2e811b57435859bd85e42af815f499d8bdeef8892b30702296b6f522e0ee  CITATION.cff
 48118c3ac6273c6c4addb17f44c6701857c4f5f98b2b305d7d27d0d719cfff62  DATA.md
 2a0834fbaf5f3104cac639a1018a9bb47083bf793c6c1bb0d20e78ca7350bbed  LICENSE
 b04f4bc7e40ddd6c587eb58ca17c5d056adf0bc83995466bdc13ac30f5e42e92  PRESPECIFICATION.md
@@ -82,4 +82,4 @@ aa4583d0bb63a530ffbcc605e17188d122582a445a50dbbe60071b09a1260afe  figures-src/fi
 543e6221950ec25a6decaaa2bbae593b7a5eb72ffcb1ef5e4fc0879106b965f2  verify_manifest.py
 
 # results/  files=147350  aggregate_sha256=daa9c25f9182aee37575a1b0dc503245e507d92426c84c7172475c22762635cb
-# deposit total: 147419 files, 23040803 bytes
+# deposit total: 147419 files, 23040544 bytes

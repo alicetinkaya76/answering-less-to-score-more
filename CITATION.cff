@@ -29,13 +29,10 @@ keywords:
   - specification gaming
   - selective prediction
   - Turkish NLP
-# TODO(author) — fill in when the Zenodo deposit is published, then uncomment these four keys
-# and put the same DOI into manuscript/paper_v11.md and paper/body.tex. Nothing below is an
-# active field; these are templates, and the placeholder strings must not survive publication.
-# doi: 10.5281/zenodo.XXXXXXX
-# repository-code: "https://github.com/<user>/<repo>"
-# version: "1.0.0"
-# date-released: "2026-XX-XX"
+doi: 10.5281/zenodo.22149953
+repository-code: "https://github.com/alicetinkaya76/answering-less-to-score-more"
+version: "v1.0.1"
+date-released: "2026-08-28"
 preferred-citation:
   type: article
   title: "Answering Less to Score More: A Measurement-Validity Audit of Abstain-Exclude Fitness in Prompt Optimization"
