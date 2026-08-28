@@ -8,7 +8,7 @@ archived predictions, and takes nights.
 
 ---
 
-## Path A — verify the paper's numbers (minutes, no model, no network)
+## Path A: verify the paper's numbers (minutes, no model, no network)
 
 The archive already contains every per-item prediction, so nothing needs to be inferred
 again. You need Python 3.10+ and nothing else; the verifier is standard library only.
@@ -25,7 +25,7 @@ CHECKS: 105 total, 105 PASS, 0 FAIL
 ```
 
 That is the script's literal last line. Every check passes. If any fails, the archive you are running against is not the one this
-deposit shipped — compare `SHA256SUMS.txt` before looking anywhere else.
+deposit shipped; compare `SHA256SUMS.txt` before looking anywhere else.
 
 ### A note on the recorded history
 
@@ -34,14 +34,14 @@ and `analysis/VERIFICATION.md` (in Turkish) is the audit that investigated them.
 cases the *check* was stale, not the archive and not the paper:
 
 - **Hard core (2 checks).** §4 of the paper defines the hard core as the test items that all
-  eight manual prompts *answer* and all eight answer *wrongly* — 59 items, 58 of them satirical.
+  eight manual prompts *answer* and all eight answer *wrongly*: 59 items, 58 of them satirical.
   The check body computed the looser "an unanswered item counts as wrong" variant, which gives
   75 and 74. Implementing the paper's stated definition reproduces 59 / 58 exactly. The paper's
   numbers were correct throughout.
 - **Honest-improvement counts (2 checks).** Their expected values, 3 and 6, came from an
   archived interim report and were shown unreproducible. The manuscript had already dropped
   them: §6 reports two near-full-coverage candidates beating the baseline, both from OPRO, and
-  the "6" under F_wrong counted log lines rather than prompts — one winner logged as elite in
+  the "6" under F_wrong counted log lines rather than prompts: one winner logged as elite in
   six successive generations, so the unique count is 1.
 
 Both fixes are annotated inline in `analysis/analysis.py` with the previous value and the
@@ -59,17 +59,17 @@ figures reproduce with identical labels, values, and dimensions.
 
 ---
 
-## Path B — re-run the experiments (nights, needs a local Ollama)
+## Path B: re-run the experiments (nights, needs a local Ollama)
 
 ### Environment
 
 | | |
 |---|---|
-| Python | ≥ 3.10, standard library only — no pip install required |
+| Python | ≥ 3.10, standard library only; no pip install required |
 | Inference | [Ollama](https://ollama.com) running locally at `http://localhost:11434` |
 | Target / optimizer model | `qwen2.5:14b`, digest `7cdf5a0187d5c58cc5d369b255592f7841d1c4696d45a8c8a9489440385b22f6` |
 | Resistant-target model | `qwen2.5:7b` |
-| Fragility screen / battery | seven and four further local models — see the per-run `config.json` snapshots |
+| Fragility screen / battery | seven and four further local models; see the per-run `config.json` snapshots |
 | Cost | zero; no API is called at any point |
 
 Each optimization run directory carries a `config.json` snapshot recording the model digests,
@@ -110,7 +110,7 @@ python3 05_report.py                                     # decision report
 python3 06_probe_hard_slice.py --arm ga_excl --seed 11   # hard-slice probe
 ```
 
-Stages `07`–`15` are the supporting experiments — decoding-budget sensitivity, mechanism
+Stages `07`–`15` are the supporting experiments: decoding-budget sensitivity, mechanism
 and reverse ablation, the budget test, the trivial-vs-search comparison, the fragility
 screen, the exploit battery, and the resistant-target search. Each is an independent
 script, so the work can be split across sessions. All runners accept `--mock` for a dry
@@ -136,7 +136,7 @@ the reproduction path with a guarantee attached; Path B reproduces the *procedur
 > reports and what every archived result reflects. The prose is stale; the code is correct.
 
 The archived scripts are left exactly as they were run, so the discrepancy is documented here
-rather than edited away. Nothing in the pipeline reads 400 from anywhere — `TRUNC` is a single
+rather than edited away. Nothing in the pipeline reads 400 from anywhere; `TRUNC` is a single
 module-level constant with no override path, so there is no way to silently reproduce at the
 wrong width. To confirm before you spend a night of inference:
 

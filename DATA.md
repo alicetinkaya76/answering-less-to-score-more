@@ -6,7 +6,7 @@ license". This file is that documentation.
 
 ## The chain
 
-1. **Upstream corpus.** SatireTR — the Turkish Satirical News Dataset — pairs satirical
+1. **Upstream corpus.** SatireTR, the Turkish Satirical News Dataset, pairs satirical
    articles from *Zaytung* with non-satirical agency news from *Anadolu Ajansı*, and adds
    200 style-debiased satirical articles generated with an LLM.
    - Repository: <https://github.com/auotomaton/satireTR>
@@ -17,7 +17,7 @@ license". This file is that documentation.
      (BUCC), 2025, pages 19–35. arXiv:2412.09247.
 
 2. **This study's derived corpus.** `code/00_prepare_data.py` downloads the three upstream
-   CSVs and derives `data/satire_tr.tsv` — 4,370 balanced items, each the **headless
+   CSVs and derives `data/satire_tr.tsv`: 4,370 balanced items, each the **headless
    opening of an article body truncated at 200 characters** on a word boundary, with
    duplicates and items under 80 characters dropped, sampled deterministically at
    `SEED = 20260706`. The style-debiased probe becomes
@@ -33,11 +33,11 @@ newspaper texts they derive from are third-party journalism, and this deposit do
 assert any right over them. Instead you get everything needed to rebuild them bit-for-bit
 and to prove that you did:
 
-- `data/splits/dev_indices.txt`, `data/splits/test_indices.txt` — the frozen item ids.
-- `data/MANIFEST_satire_tr.tsv`, `data/MANIFEST_satire_probe_debiased.tsv` — one row per
+- `data/splits/dev_indices.txt`, `data/splits/test_indices.txt`: the frozen item ids.
+- `data/MANIFEST_satire_tr.tsv`, `data/MANIFEST_satire_probe_debiased.tsv`, one row per
   item: `id`, `label`, `n_chars`, `sha256_text`. Rebuild the corpus, hash each item's
   text, and compare item by item.
-- `data/CHECKSUMS.txt` — sha256 of the two whole files.
+- `data/CHECKSUMS.txt`: sha256 of the two whole files.
 
 A note on what the MIT license does and does not settle. The upstream repository is released
 by its authors under an MIT license, and that license governs the repository's own contents as
@@ -46,7 +46,7 @@ Zaytung and Anadolu Ajansı journalism from which those contents derive. This de
 does not redistribute the source text and makes no claim about the rights in it. The manifests
 exist so that withholding the text costs a reproducer nothing.
 
-## Verbatim echo in the raw model outputs — disclosed
+## Verbatim echo in the raw model outputs: disclosed
 
 `results/**/raw/` holds the raw text each target model returned, one file per item. These
 are model generations, not corpus files. But the exploit under study works by deleting an
@@ -77,6 +77,6 @@ was removed and when remains auditable even though the file itself is gone.
 
 | component | terms |
 |---|---|
-| `code/`, `analysis/`, `figures-src/`, `verify_manifest.py` | MIT — see `LICENSE`, whose header states this scope |
-| `results/`, `data/` manifests and indices, `figures/` | CC BY 4.0 for the author's derived data and figures — except that no rights are claimed in any third-party text incidentally reproduced inside raw model outputs, which remains subject to its original holders' rights and to the access-and-takedown procedure above |
+| `code/`, `analysis/`, `figures-src/`, `verify_manifest.py` | MIT; see `LICENSE`, whose header states this scope |
+| `results/`, `data/` manifests and indices, `figures/` | CC BY 4.0 for the author's derived data and figures, except that no rights are claimed in any third-party text incidentally reproduced inside raw model outputs, which remains subject to its original holders' rights and to the access-and-takedown procedure above |
 | the underlying Zaytung / Anadolu Ajansı article texts | not redistributed and no rights claimed; the upstream compilation's MIT license covers that repository's contents, not the journalism they derive from |

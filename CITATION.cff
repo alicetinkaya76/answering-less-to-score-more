@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this artifact, please cite both the artifact and the paper it accompanies."
-title: "Answering Less to Score More — code and data artifact"
+title: "Answering Less to Score More: code and data artifact"
 abstract: >-
   Complete replication archive for a measurement-validity audit of abstain-exclude
   fitness in prompt optimization: the experiment pipeline as run, the full run archive

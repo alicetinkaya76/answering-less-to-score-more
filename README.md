@@ -1,4 +1,4 @@
-# Answering Less to Score More — code and data artifact
+# Answering Less to Score More: code and data artifact
 
 Replication artifact for:
 
@@ -20,8 +20,8 @@ through their raw predictions, summaries, scripts, and provenance records.
 | path | contents |
 |---|---|
 | `code/` | the experiment pipeline as run: `00`–`15` stage scripts, the `fg/` package, unit and smoke tests, `config.json`, the manual prompt sets |
-| `results/` | the complete run archive — 12 experiment groups, 146,550 raw model outputs, per-item strict and lenient predictions, per-candidate generation logs, best-of-run selections, per-run config snapshots with model digests |
-| `data/` | frozen dev/test split indices, a per-item manifest, and checksums. **The corpus text itself is not redistributed here** — see `DATA.md` |
+| `results/` | the complete run archive: 12 experiment groups, 146,550 raw model outputs, per-item strict and lenient predictions, per-candidate generation logs, best-of-run selections, per-run config snapshots with model digests |
+| `data/` | frozen dev/test split indices, a per-item manifest, and checksums. **The corpus text itself is not redistributed here**; see `DATA.md` |
 | `analysis/` | `analysis.py`, a separate 105-check verifier that re-derives the main tables and selected textual statistics from `results/`, plus its recorded and re-run outputs |
 | `figures-src/` | `make_figures.py` and the `figure_data.json` it plots, itself produced by `analysis.py` |
 | `figures/` | the five paper figures (PNG + PDF) and their captions |
@@ -31,7 +31,7 @@ through their raw predictions, summaries, scripts, and provenance records.
 ## Quick start
 
 Verifying the paper's numbers takes minutes and needs no GPU, no network, and no
-model — the archive already contains every prediction:
+model; the archive already contains every prediction:
 
 ```bash
 python3 analysis/analysis.py results/ derived/
